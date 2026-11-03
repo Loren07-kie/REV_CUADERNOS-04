@@ -4,6 +4,10 @@ Proyecto significativo 4 — Lorena Abigail Coca Ccorpa · Ingeniería de Softwa
 
 Aplicación Flask que integra la gestión de publicidades aceptadas de Teleconexiones con Git/GitHub (semana 10) y visión computacional (semana 11). Rediseño con imágenes originales, fondo con capa oscura, logo generado, tipografía redondeada, animaciones y adaptación a móvil.
 
+## Web publicada
+
+https://teleconexiones-medialab-04.onrender.com
+
 ## Funciones
 
 - Campañas: crear, consultar, editar y eliminar, buscar, filtrar por estado, exportar CSV y respaldar/restaurar JSON.
@@ -28,6 +32,10 @@ python -m pip install -r requirements.txt
 python entrenamiento/entrenar.py
 python app.py
 ```
+
+## Abrir el cuaderno Jupyter
+
+Con el entorno virtual activado, ejecuta `python -m pip install jupyterlab` y después `python -m jupyterlab entrenamiento/MediaLab.ipynb`. Ejecuta las celdas en orden.
 
 ## Validar
 
