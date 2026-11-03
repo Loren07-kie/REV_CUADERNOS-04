@@ -1,0 +1,1121 @@
+id_sintetico,tipo,canal,zona,turno,duracion_segundos,emisiones,dias_campana,alcance_estimado,urgente,incluye_edicion,precio_soles
+SIM-04795,Spot televisivo,Multiplataforma,Pangoa,Noche,35,28,1,60914,0,0,647.47
+SIM-04269,Spot televisivo,Multiplataforma,Mazamari,Noche,138,21,14,49343,1,0,854.31
+SIM-02004,Spot televisivo,Streaming,Mazamari,Tarde,82,26,9,33849,1,0,677.26
+SIM-02515,Cobertura de evento,Redes sociales,Satipo,Noche,63,12,17,14708,1,0,710.23
+SIM-03014,Spot televisivo,Streaming,Mazamari,Mañana,46,29,34,67612,1,1,807.26
+SIM-04112,Spot televisivo,Streaming,Río Negro,Mañana,121,17,10,86101,1,1,829.27
+SIM-01699,Mención en vivo,TV,Mazamari,Mañana,116,7,20,44393,0,0,520.01
+SIM-01822,Mención en vivo,TV,Mazamari,Mañana,146,6,31,78247,0,1,721.03
+SIM-03297,Publicidad digital,Redes sociales,Río Negro,Mañana,19,21,45,35613,1,1,685.27
+SIM-01281,Spot radial,Redes sociales,Mazamari,Tarde,177,26,43,53602,0,0,769.03
+SIM-01726,Cobertura de evento,TV,Mazamari,Tarde,111,11,13,64021,1,1,899.02
+SIM-02617,Spot radial,TV,Río Negro,Mañana,32,25,5,62964,0,0,445.0
+SIM-04065,Mención en vivo,Streaming,Mazamari,Noche,100,28,2,4275,0,0,496.03
+SIM-02346,Spot radial,Redes sociales,Pangoa,Tarde,90,27,17,46981,0,1,656.03
+SIM-01168,Publicidad digital,Multiplataforma,Mazamari,Noche,33,12,14,28470,0,0,512.22
+SIM-04315,Publicidad digital,Multiplataforma,Río Negro,Tarde,60,8,42,59248,0,0,620.7
+SIM-01832,Mención en vivo,Multiplataforma,Satipo,Tarde,69,10,24,53126,1,0,631.48
+SIM-00101,Publicidad digital,Streaming,Satipo,Tarde,66,10,14,4733,1,1,584.73
+SIM-02471,Publicidad digital,Multiplataforma,Pangoa,Tarde,164,25,20,30351,0,1,863.91
+SIM-02287,Mención en vivo,TV,Satipo,Tarde,42,9,32,19756,0,0,425.15
+SIM-03831,Spot televisivo,Multiplataforma,Pangoa,Noche,109,29,43,23883,0,1,955.04
+SIM-00296,Spot radial,Redes sociales,Satipo,Mañana,23,9,39,63215,1,1,631.51
+SIM-03214,Spot televisivo,Multiplataforma,Satipo,Tarde,55,25,15,31272,1,0,715.23
+SIM-02550,Cobertura de evento,Multiplataforma,Pangoa,Noche,148,1,25,1579,1,1,979.98
+SIM-03204,Mención en vivo,TV,Río Negro,Tarde,86,6,2,86953,1,0,519.15
+SIM-04137,Publicidad digital,Streaming,Pangoa,Noche,97,16,9,68218,1,0,668.21
+SIM-00079,Spot radial,TV,Río Negro,Noche,58,15,23,65431,0,0,527.97
+SIM-02251,Spot radial,Multiplataforma,Río Negro,Tarde,56,11,16,51923,1,1,662.69
+SIM-01894,Cobertura de evento,TV,Satipo,Tarde,18,2,17,58532,0,1,652.79
+SIM-05267,Mención en vivo,Streaming,Satipo,Mañana,145,13,3,71912,0,0,554.87
+SIM-00167,Spot radial,Streaming,Pangoa,Mañana,162,30,11,52124,1,0,739.99
+SIM-00555,Spot radial,Multiplataforma,Mazamari,Noche,24,26,3,77058,1,1,690.44
+SIM-03635,Publicidad digital,Redes sociales,Pangoa,Noche,84,15,7,27774,1,0,566.9
+SIM-02656,Publicidad digital,Redes sociales,Satipo,Mañana,178,3,19,44180,1,0,679.95
+SIM-02451,Cobertura de evento,TV,Río Negro,Noche,113,19,42,23635,0,1,922.02
+SIM-01244,Spot televisivo,TV,Mazamari,Noche,137,5,31,41395,1,1,873.17
+SIM-03580,Spot televisivo,TV,Río Negro,Noche,114,15,8,70543,0,1,756.01
+SIM-02369,Cobertura de evento,Redes sociales,Mazamari,Tarde,59,9,27,88648,0,0,703.35
+SIM-02277,Spot televisivo,Streaming,Río Negro,Mañana,155,29,39,7932,0,0,775.33
+SIM-02329,Cobertura de evento,Streaming,Mazamari,Tarde,17,19,1,83000,1,1,756.65
+SIM-00465,Mención en vivo,TV,Río Negro,Mañana,175,17,1,23994,0,1,659.54
+SIM-00325,Spot televisivo,Streaming,Pangoa,Tarde,94,11,40,64492,0,1,787.99
+SIM-02680,Cobertura de evento,TV,Pangoa,Noche,23,21,11,19479,0,1,693.17
+SIM-03023,Mención en vivo,Multiplataforma,Mazamari,Mañana,81,13,20,74449,0,1,652.65
+SIM-00230,Mención en vivo,TV,Río Negro,Tarde,163,28,27,71359,0,0,720.65
+SIM-05101,Publicidad digital,Multiplataforma,Satipo,Mañana,100,16,2,23268,1,1,724.79
+SIM-04361,Mención en vivo,Redes sociales,Satipo,Mañana,147,4,28,43426,1,1,718.28
+SIM-00080,Spot televisivo,Redes sociales,Mazamari,Noche,125,16,34,58759,0,0,760.3
+SIM-05408,Mención en vivo,TV,Río Negro,Noche,111,14,5,42333,0,0,503.02
+SIM-00751,Cobertura de evento,Redes sociales,Pangoa,Mañana,137,27,29,40926,0,0,825.77
+SIM-01410,Publicidad digital,Streaming,Pangoa,Tarde,125,12,42,59812,0,1,770.12
+SIM-05471,Spot televisivo,TV,Río Negro,Tarde,128,26,28,29461,1,0,814.91
+SIM-01412,Spot radial,Multiplataforma,Mazamari,Tarde,96,30,40,65206,0,0,737.53
+SIM-04573,Cobertura de evento,TV,Mazamari,Noche,17,12,16,18041,0,1,669.95
+SIM-05050,Spot radial,TV,Mazamari,Mañana,68,4,6,53618,1,0,461.26
+SIM-02399,Cobertura de evento,Redes sociales,Pangoa,Noche,14,29,43,54172,1,1,916.92
+SIM-01220,Spot televisivo,TV,Mazamari,Mañana,11,27,20,84150,1,0,637.57
+SIM-00978,Publicidad digital,TV,Pangoa,Noche,175,15,10,50612,0,0,696.63
+SIM-01694,Spot televisivo,Redes sociales,Satipo,Noche,78,18,23,5211,0,0,591.11
+SIM-02653,Spot radial,TV,Pangoa,Tarde,95,9,2,62993,1,0,563.27
+SIM-02765,Cobertura de evento,Streaming,Mazamari,Mañana,93,19,39,57364,0,1,863.43
+SIM-03489,Mención en vivo,Streaming,Mazamari,Mañana,137,23,26,1362,1,1,715.61
+SIM-00132,Mención en vivo,Multiplataforma,Satipo,Noche,10,30,26,39340,0,0,552.37
+SIM-04011,Cobertura de evento,TV,Satipo,Mañana,13,6,43,17444,1,1,765.37
+SIM-05501,Spot televisivo,TV,Satipo,Tarde,149,21,9,61969,0,0,727.97
+SIM-00023,Mención en vivo,Multiplataforma,Mazamari,Tarde,28,26,26,70915,1,0,635.17
+SIM-04409,Mención en vivo,TV,Río Negro,Tarde,25,23,39,5086,1,0,507.97
+SIM-00447,Spot televisivo,TV,Mazamari,Mañana,58,5,15,19801,0,1,570.13
+SIM-03321,Cobertura de evento,Multiplataforma,Pangoa,Tarde,151,3,36,51030,0,0,883.54
+SIM-05023,Spot televisivo,Redes sociales,Pangoa,Noche,152,25,29,31340,0,0,781.72
+SIM-00177,Cobertura de evento,TV,Satipo,Tarde,80,27,45,78982,1,0,950.66
+SIM-00765,Spot radial,Redes sociales,Satipo,Mañana,80,13,14,53147,1,1,624.83
+SIM-00346,Mención en vivo,Redes sociales,Mazamari,Noche,160,26,11,66463,1,1,824.21
+SIM-02902,Cobertura de evento,Multiplataforma,Pangoa,Mañana,47,6,4,8227,0,0,609.16
+SIM-04902,Publicidad digital,Multiplataforma,Mazamari,Mañana,168,10,43,38643,0,0,771.42
+SIM-00290,Cobertura de evento,TV,Río Negro,Tarde,107,12,19,35522,0,1,811.72
+SIM-01657,Publicidad digital,TV,Río Negro,Noche,15,26,34,36183,1,0,626.14
+SIM-00624,Cobertura de evento,Streaming,Satipo,Tarde,115,21,31,29386,1,0,864.2
+SIM-05230,Cobertura de evento,Redes sociales,Río Negro,Mañana,37,30,13,10778,0,1,716.99
+SIM-01361,Mención en vivo,Streaming,Río Negro,Noche,136,5,15,40677,1,0,594.62
+SIM-03370,Cobertura de evento,Streaming,Pangoa,Noche,14,22,29,80304,0,0,742.35
+SIM-05461,Spot radial,Streaming,Pangoa,Tarde,71,19,25,44237,1,1,688.56
+SIM-03625,Spot televisivo,Streaming,Pangoa,Mañana,70,27,22,54654,0,0,633.35
+SIM-03044,Cobertura de evento,Redes sociales,Río Negro,Mañana,30,28,32,20414,0,1,743.4
+SIM-02835,Mención en vivo,Multiplataforma,Río Negro,Noche,140,19,13,54447,1,1,807.75
+SIM-04083,Spot televisivo,TV,Satipo,Noche,40,17,1,5727,1,0,554.92
+SIM-00681,Cobertura de evento,TV,Río Negro,Mañana,11,7,40,31572,0,0,619.64
+SIM-00879,Cobertura de evento,Multiplataforma,Río Negro,Noche,170,1,9,70352,1,1,1020.91
+SIM-04357,Spot radial,TV,Pangoa,Tarde,57,30,43,69182,1,1,799.49
+SIM-00530,Mención en vivo,TV,Mazamari,Noche,44,15,24,28147,1,0,533.78
+SIM-02957,Cobertura de evento,Multiplataforma,Mazamari,Noche,47,9,19,63441,1,0,806.38
+SIM-02410,Spot televisivo,Redes sociales,Satipo,Mañana,17,14,6,55463,0,0,451.16
+SIM-01194,Publicidad digital,Redes sociales,Mazamari,Noche,95,19,16,62973,0,0,594.88
+SIM-02495,Mención en vivo,TV,Río Negro,Tarde,174,20,9,66084,1,1,803.38
+SIM-00319,Publicidad digital,Multiplataforma,Pangoa,Noche,124,7,45,44486,0,0,750.74
+SIM-03669,Publicidad digital,Redes sociales,Pangoa,Mañana,139,17,2,89099,1,1,790.01
+SIM-03970,Cobertura de evento,Multiplataforma,Pangoa,Noche,46,23,6,13911,1,0,780.08
+SIM-01732,Mención en vivo,TV,Mazamari,Noche,114,20,34,19294,1,0,685.84
+SIM-01769,Spot televisivo,Streaming,Mazamari,Mañana,37,24,23,37267,1,1,715.11
+SIM-04839,Spot radial,TV,Río Negro,Mañana,80,22,35,18897,0,0,530.96
+SIM-02473,Spot radial,Streaming,Río Negro,Mañana,65,21,45,79580,0,0,588.87
+SIM-05192,Mención en vivo,Streaming,Satipo,Noche,106,3,15,88154,0,1,632.16
+SIM-05103,Cobertura de evento,TV,Mazamari,Mañana,50,11,23,42436,0,1,725.64
+SIM-04180,Cobertura de evento,Redes sociales,Río Negro,Noche,141,19,23,35512,1,0,890.64
+SIM-01912,Cobertura de evento,Multiplataforma,Río Negro,Tarde,42,13,29,62568,1,0,807.11
+SIM-00544,Publicidad digital,Multiplataforma,Río Negro,Tarde,132,22,10,19326,1,1,806.58
+SIM-01786,Publicidad digital,Redes sociales,Mazamari,Noche,175,15,10,55829,0,1,758.85
+SIM-01966,Spot radial,Multiplataforma,Río Negro,Tarde,80,9,22,40502,0,0,542.16
+SIM-02268,Publicidad digital,Multiplataforma,Pangoa,Mañana,58,13,35,49824,1,0,673.52
+SIM-02087,Publicidad digital,TV,Satipo,Mañana,21,9,42,69471,0,0,522.52
+SIM-03617,Spot televisivo,TV,Satipo,Noche,55,21,16,67045,0,1,720.52
+SIM-03705,Spot radial,Multiplataforma,Pangoa,Noche,139,24,39,29389,1,1,941.75
+SIM-04446,Mención en vivo,TV,Río Negro,Tarde,79,14,8,1142,0,1,479.94
+SIM-02742,Spot televisivo,Redes sociales,Mazamari,Noche,87,23,20,4308,0,0,622.97
+SIM-01255,Spot radial,Redes sociales,Satipo,Noche,83,12,36,89623,0,1,702.28
+SIM-04034,Spot radial,Redes sociales,Río Negro,Noche,39,25,3,59241,0,0,452.19
+SIM-00393,Publicidad digital,Multiplataforma,Satipo,Noche,144,13,11,30367,0,1,767.21
+SIM-03618,Mención en vivo,Redes sociales,Mazamari,Tarde,41,17,3,23931,0,1,452.83
+SIM-00324,Publicidad digital,Multiplataforma,Pangoa,Tarde,155,26,8,7636,0,0,694.33
+SIM-00422,Mención en vivo,Multiplataforma,Pangoa,Mañana,111,19,34,16632,0,1,707.56
+SIM-05594,Publicidad digital,Streaming,Río Negro,Tarde,14,9,14,9135,1,0,426.88
+SIM-00008,Spot radial,Streaming,Satipo,Noche,57,13,13,56432,0,1,563.63
+SIM-05071,Spot televisivo,Streaming,Río Negro,Noche,169,6,7,43171,0,1,762.81
+SIM-05306,Spot radial,TV,Satipo,Mañana,108,6,45,61667,0,0,605.42
+SIM-02607,Spot radial,Redes sociales,Río Negro,Tarde,154,25,13,53823,0,1,714.08
+SIM-04349,Spot televisivo,Redes sociales,Pangoa,Tarde,123,12,24,82953,1,0,773.56
+SIM-01509,Publicidad digital,TV,Mazamari,Tarde,105,29,14,10848,1,1,731.78
+SIM-03685,Cobertura de evento,Streaming,Río Negro,Tarde,54,27,13,70748,0,0,701.39
+SIM-00691,Spot radial,Redes sociales,Mazamari,Tarde,20,6,44,87607,0,1,587.78
+SIM-02191,Publicidad digital,Multiplataforma,Mazamari,Tarde,153,24,16,57303,1,1,916.44
+SIM-02228,Mención en vivo,Redes sociales,Pangoa,Noche,44,27,45,7752,1,1,716.31
+SIM-01756,Spot televisivo,Redes sociales,Pangoa,Noche,34,3,28,87075,0,0,573.72
+SIM-04941,Spot radial,Multiplataforma,Mazamari,Noche,33,20,2,79382,1,1,688.45
+SIM-03725,Publicidad digital,TV,Río Negro,Noche,54,21,14,19026,0,0,498.24
+SIM-01033,Mención en vivo,Multiplataforma,Mazamari,Tarde,65,4,14,50025,1,0,562.33
+SIM-00033,Cobertura de evento,Multiplataforma,Mazamari,Noche,121,16,32,88200,0,0,923.3
+SIM-04483,Spot radial,Multiplataforma,Río Negro,Mañana,102,2,3,68635,0,0,511.82
+SIM-01044,Cobertura de evento,TV,Río Negro,Noche,162,4,29,6997,1,1,949.07
+SIM-02264,Mención en vivo,Redes sociales,Mazamari,Tarde,135,19,18,74740,0,0,602.07
+SIM-03848,Cobertura de evento,Streaming,Mazamari,Mañana,84,14,10,35489,1,0,711.6
+SIM-03168,Publicidad digital,Redes sociales,Mazamari,Noche,18,29,20,31052,1,1,660.22
+SIM-03813,Spot televisivo,Multiplataforma,Mazamari,Mañana,79,9,41,3912,1,1,806.29
+SIM-02437,Spot radial,TV,Satipo,Noche,52,15,13,80990,1,0,579.46
+SIM-00453,Publicidad digital,Multiplataforma,Río Negro,Noche,81,1,20,35561,0,1,637.48
+SIM-04807,Spot televisivo,Multiplataforma,Río Negro,Tarde,176,9,29,52379,0,1,906.95
+SIM-03501,Cobertura de evento,Redes sociales,Mazamari,Noche,175,16,31,37973,1,0,964.79
+SIM-05447,Publicidad digital,TV,Mazamari,Mañana,52,26,21,14459,1,0,591.47
+SIM-03938,Spot radial,Redes sociales,Mazamari,Tarde,105,27,30,17760,1,1,735.66
+SIM-05555,Cobertura de evento,Multiplataforma,Pangoa,Mañana,132,29,16,28944,1,0,948.86
+SIM-05563,Publicidad digital,TV,Pangoa,Noche,121,9,33,22933,0,1,735.26
+SIM-03375,Mención en vivo,Redes sociales,Río Negro,Noche,19,2,30,14615,1,0,432.12
+SIM-00333,Publicidad digital,Redes sociales,Satipo,Noche,64,5,11,54870,0,1,558.77
+SIM-03235,Cobertura de evento,TV,Pangoa,Noche,166,24,15,10389,0,1,948.57
+SIM-02110,Publicidad digital,TV,Satipo,Mañana,177,3,34,45064,0,0,691.34
+SIM-00425,Mención en vivo,Redes sociales,Satipo,Tarde,122,25,5,82789,0,0,585.86
+SIM-05164,Spot radial,Streaming,Río Negro,Tarde,87,22,28,83058,1,1,748.89
+SIM-04594,Cobertura de evento,Streaming,Mazamari,Mañana,94,9,33,78241,1,0,825.39
+SIM-00297,Mención en vivo,TV,Satipo,Mañana,147,11,30,38778,1,1,775.64
+SIM-02535,Spot televisivo,Multiplataforma,Mazamari,Noche,127,15,14,54942,1,0,838.29
+SIM-01370,Publicidad digital,Redes sociales,Satipo,Tarde,129,19,30,60790,1,0,737.39
+SIM-03468,Mención en vivo,Streaming,Pangoa,Tarde,41,17,45,14159,1,0,554.45
+SIM-02980,Spot televisivo,Multiplataforma,Mazamari,Tarde,15,6,2,18307,0,1,546.9
+SIM-00977,Cobertura de evento,TV,Satipo,Noche,37,23,34,43181,0,0,743.88
+SIM-03010,Mención en vivo,Redes sociales,Pangoa,Noche,69,10,43,49158,0,1,624.62
+SIM-04713,Spot televisivo,Redes sociales,Río Negro,Noche,123,11,42,26835,1,0,764.09
+SIM-01728,Publicidad digital,TV,Río Negro,Mañana,154,9,29,13292,0,1,700.31
+SIM-05598,Spot radial,Streaming,Mazamari,Noche,27,9,14,28048,0,0,391.75
+SIM-04400,Cobertura de evento,TV,Satipo,Tarde,158,16,23,80023,1,1,1039.09
+SIM-04510,Cobertura de evento,Multiplataforma,Río Negro,Tarde,110,9,3,65381,1,1,922.69
+SIM-02063,Spot televisivo,Streaming,Satipo,Tarde,24,1,25,28888,1,1,614.01
+SIM-03852,Spot radial,Multiplataforma,Pangoa,Mañana,16,8,15,48116,1,0,505.5
+SIM-00747,Cobertura de evento,Multiplataforma,Río Negro,Tarde,160,20,11,55681,0,0,883.5
+SIM-02244,Spot radial,Redes sociales,Río Negro,Noche,116,30,39,77414,1,1,888.42
+SIM-04704,Mención en vivo,Redes sociales,Río Negro,Mañana,94,19,33,63425,1,0,617.25
+SIM-01561,Cobertura de evento,Multiplataforma,Mazamari,Mañana,106,14,3,33898,1,1,891.1
+SIM-03309,Spot televisivo,TV,Mazamari,Noche,99,24,41,39068,1,0,828.32
+SIM-03491,Mención en vivo,Redes sociales,Satipo,Noche,32,22,40,45227,1,1,705.68
+SIM-05431,Mención en vivo,TV,Río Negro,Tarde,20,6,21,57932,1,0,456.33
+SIM-04393,Cobertura de evento,Multiplataforma,Satipo,Tarde,177,11,21,44473,0,1,980.63
+SIM-01097,Spot televisivo,Streaming,Mazamari,Noche,121,3,39,72039,1,0,781.19
+SIM-04394,Publicidad digital,Multiplataforma,Pangoa,Noche,63,1,32,65934,0,0,599.94
+SIM-03786,Cobertura de evento,Redes sociales,Río Negro,Tarde,173,16,4,18374,1,0,814.59
+SIM-05207,Spot radial,Multiplataforma,Pangoa,Noche,60,11,35,5050,0,0,542.48
+SIM-03679,Spot radial,Redes sociales,Satipo,Mañana,149,10,17,69395,1,1,745.99
+SIM-01557,Cobertura de evento,TV,Río Negro,Noche,169,12,18,42548,1,1,994.46
+SIM-03182,Spot radial,Multiplataforma,Satipo,Noche,81,17,44,4570,1,0,698.97
+SIM-00964,Publicidad digital,Streaming,Pangoa,Noche,76,1,37,52203,1,0,625.12
+SIM-03341,Spot radial,Redes sociales,Satipo,Noche,104,11,14,37248,0,0,526.81
+SIM-04500,Mención en vivo,Streaming,Río Negro,Tarde,127,29,1,49883,1,1,717.02
+SIM-03361,Mención en vivo,TV,Satipo,Mañana,104,8,30,77329,0,0,548.78
+SIM-02406,Publicidad digital,Streaming,Pangoa,Noche,94,26,27,9856,1,0,689.69
+SIM-05568,Spot radial,TV,Río Negro,Tarde,90,25,5,16289,0,0,482.1
+SIM-00932,Spot radial,Redes sociales,Mazamari,Tarde,42,11,41,65078,1,0,596.36
+SIM-04686,Publicidad digital,Multiplataforma,Satipo,Tarde,111,3,26,29865,1,1,784.46
+SIM-02788,Publicidad digital,Streaming,Pangoa,Mañana,33,4,22,5812,0,1,477.2
+SIM-05120,Spot radial,Multiplataforma,Pangoa,Noche,177,28,13,33777,1,0,847.32
+SIM-00605,Spot televisivo,Redes sociales,Mazamari,Mañana,86,30,21,46635,1,1,792.19
+SIM-03668,Spot televisivo,Redes sociales,Río Negro,Tarde,80,4,27,28398,0,0,538.5
+SIM-04383,Spot televisivo,Streaming,Río Negro,Noche,36,23,1,84883,0,1,635.4
+SIM-01344,Mención en vivo,Multiplataforma,Satipo,Mañana,126,20,31,7546,0,1,725.7
+SIM-00811,Cobertura de evento,Multiplataforma,Satipo,Mañana,79,24,18,1144,0,0,726.24
+SIM-01618,Cobertura de evento,Multiplataforma,Satipo,Mañana,22,23,11,74729,1,1,857.97
+SIM-00315,Mención en vivo,TV,Mazamari,Noche,63,14,38,20494,1,0,606.72
+SIM-03781,Mención en vivo,Streaming,Mazamari,Mañana,83,26,9,32518,0,1,571.27
+SIM-00015,Cobertura de evento,Redes sociales,Satipo,Mañana,170,25,14,87934,0,1,988.97
+SIM-01684,Spot radial,Streaming,Río Negro,Noche,124,22,39,71859,1,1,858.85
+SIM-05341,Cobertura de evento,Streaming,Satipo,Tarde,55,23,15,74376,0,0,707.7
+SIM-00577,Spot televisivo,Streaming,Satipo,Noche,124,26,22,80531,1,1,923.57
+SIM-01261,Spot televisivo,Multiplataforma,Río Negro,Noche,114,20,43,20569,1,1,959.33
+SIM-04032,Spot radial,TV,Mazamari,Noche,16,3,44,83751,1,0,582.91
+SIM-02412,Spot televisivo,TV,Satipo,Mañana,176,14,43,12661,1,1,940.8
+SIM-02755,Mención en vivo,Redes sociales,Satipo,Tarde,144,14,22,78745,0,1,697.27
+SIM-02812,Spot radial,Redes sociales,Satipo,Noche,107,20,39,71965,0,1,760.38
+SIM-02948,Spot televisivo,Streaming,Río Negro,Noche,60,27,41,83191,0,1,820.56
+SIM-03995,Spot radial,Streaming,Satipo,Tarde,18,18,5,45450,1,0,457.31
+SIM-01272,Publicidad digital,Redes sociales,Pangoa,Noche,32,18,8,86816,1,0,572.81
+SIM-01583,Mención en vivo,Streaming,Mazamari,Tarde,98,3,17,35815,0,1,540.16
+SIM-01835,Mención en vivo,Streaming,Mazamari,Mañana,41,4,23,32118,1,0,429.84
+SIM-04295,Spot televisivo,TV,Mazamari,Mañana,51,16,38,74554,0,1,724.62
+SIM-00084,Publicidad digital,Redes sociales,Río Negro,Tarde,76,21,32,39938,0,0,575.76
+SIM-00734,Spot radial,Redes sociales,Mazamari,Mañana,154,21,5,85190,0,1,706.32
+SIM-02330,Cobertura de evento,TV,Pangoa,Tarde,44,14,6,67711,1,0,723.15
+SIM-01717,Spot radial,Multiplataforma,Pangoa,Tarde,73,11,13,26852,0,0,514.04
+SIM-04048,Cobertura de evento,Multiplataforma,Satipo,Noche,130,7,31,59361,0,0,889.45
+SIM-04181,Spot televisivo,Redes sociales,Río Negro,Mañana,28,12,20,64133,1,1,662.58
+SIM-03604,Cobertura de evento,Multiplataforma,Río Negro,Noche,24,11,20,87471,1,1,899.42
+SIM-03608,Spot televisivo,Redes sociales,Pangoa,Noche,152,9,18,68122,1,1,898.84
+SIM-01183,Spot televisivo,TV,Mazamari,Mañana,91,3,20,43911,1,1,726.55
+SIM-02570,Publicidad digital,Multiplataforma,Satipo,Tarde,137,18,11,34767,0,0,676.45
+SIM-00168,Cobertura de evento,Streaming,Río Negro,Noche,165,4,6,71593,0,1,884.86
+SIM-00737,Spot televisivo,Multiplataforma,Mazamari,Noche,106,15,12,85737,0,1,830.05
+SIM-01295,Spot televisivo,Streaming,Mazamari,Mañana,10,10,42,28364,1,1,680.56
+SIM-04879,Cobertura de evento,TV,Pangoa,Mañana,46,6,6,25403,1,1,708.03
+SIM-03352,Spot radial,Streaming,Mazamari,Tarde,77,15,17,12567,1,0,535.39
+SIM-05070,Publicidad digital,TV,Satipo,Mañana,16,19,41,85306,0,1,660.38
+SIM-03555,Spot televisivo,Redes sociales,Pangoa,Mañana,39,15,9,15193,1,0,543.52
+SIM-05288,Publicidad digital,Redes sociales,Satipo,Tarde,32,30,22,3082,0,0,493.15
+SIM-04761,Publicidad digital,TV,Río Negro,Tarde,93,17,17,12199,0,0,511.08
+SIM-02306,Spot radial,TV,Satipo,Tarde,40,3,12,2476,1,1,511.57
+SIM-00426,Spot radial,Redes sociales,Mazamari,Mañana,80,10,32,1815,1,0,523.77
+SIM-00711,Spot radial,Redes sociales,Satipo,Tarde,130,4,30,75565,1,0,670.06
+SIM-05111,Cobertura de evento,Streaming,Mazamari,Mañana,65,18,9,12890,0,1,690.14
+SIM-02299,Spot televisivo,TV,Mazamari,Noche,135,29,15,78745,0,0,785.71
+SIM-05446,Spot televisivo,Streaming,Satipo,Mañana,180,10,15,89327,0,0,749.11
+SIM-05159,Mención en vivo,TV,Río Negro,Noche,154,24,29,29562,1,1,835.32
+SIM-03400,Spot radial,TV,Mazamari,Noche,62,29,31,83994,1,0,710.4
+SIM-04373,Cobertura de evento,Multiplataforma,Río Negro,Tarde,149,7,33,26480,0,1,926.5
+SIM-04775,Publicidad digital,Multiplataforma,Río Negro,Mañana,123,12,1,47095,0,1,677.58
+SIM-00373,Spot televisivo,Multiplataforma,Pangoa,Mañana,167,23,6,17076,0,0,776.32
+SIM-04559,Publicidad digital,TV,Pangoa,Tarde,149,9,26,36979,0,0,659.33
+SIM-01507,Mención en vivo,Streaming,Satipo,Noche,81,3,32,52752,1,0,576.0
+SIM-01315,Spot televisivo,TV,Pangoa,Mañana,149,23,1,24072,0,0,656.78
+SIM-02101,Spot radial,Streaming,Pangoa,Tarde,158,4,8,71880,1,1,746.21
+SIM-01297,Spot televisivo,TV,Río Negro,Tarde,38,11,23,20429,1,1,670.47
+SIM-01002,Cobertura de evento,Multiplataforma,Mazamari,Noche,174,4,20,6736,1,0,944.27
+SIM-04766,Spot radial,Streaming,Pangoa,Tarde,80,29,36,37671,0,1,691.73
+SIM-00730,Mención en vivo,Streaming,Mazamari,Tarde,61,6,39,13599,1,0,514.26
+SIM-04094,Cobertura de evento,Streaming,Satipo,Tarde,49,21,10,32030,0,0,628.38
+SIM-02642,Spot radial,TV,Pangoa,Mañana,166,20,44,49833,0,1,824.41
+SIM-05140,Spot radial,Redes sociales,Pangoa,Tarde,97,27,24,85310,1,0,699.5
+SIM-05301,Spot radial,TV,Río Negro,Mañana,99,30,38,54605,1,0,715.17
+SIM-01090,Spot televisivo,Streaming,Mazamari,Tarde,106,23,43,26011,0,1,816.75
+SIM-02760,Spot televisivo,Redes sociales,Pangoa,Mañana,33,3,23,33101,0,1,537.73
+SIM-03956,Mención en vivo,Streaming,Mazamari,Mañana,108,3,22,57651,0,0,493.97
+SIM-02677,Cobertura de evento,Redes sociales,Mazamari,Mañana,20,5,12,36690,0,0,510.68
+SIM-00952,Spot televisivo,Redes sociales,Pangoa,Noche,159,6,20,81985,1,1,915.65
+SIM-05106,Spot televisivo,Multiplataforma,Pangoa,Tarde,148,15,6,84542,0,1,864.77
+SIM-04149,Publicidad digital,Multiplataforma,Mazamari,Tarde,169,5,39,13148,1,1,873.77
+SIM-04567,Mención en vivo,Streaming,Satipo,Mañana,115,16,13,10293,0,1,584.34
+SIM-03295,Spot televisivo,TV,Río Negro,Tarde,114,25,13,32828,0,0,669.93
+SIM-04944,Mención en vivo,Multiplataforma,Pangoa,Mañana,135,29,16,19121,0,1,750.84
+SIM-05534,Spot televisivo,Streaming,Río Negro,Noche,127,22,12,5130,1,1,779.89
+SIM-02584,Mención en vivo,Streaming,Satipo,Noche,59,28,29,60530,1,1,734.2
+SIM-03185,Publicidad digital,Streaming,Río Negro,Mañana,55,5,44,44422,1,0,577.8
+SIM-01437,Spot televisivo,Streaming,Pangoa,Mañana,119,7,37,18655,0,0,655.05
+SIM-01393,Spot radial,Streaming,Satipo,Noche,86,1,16,4036,0,0,422.11
+SIM-04828,Spot televisivo,TV,Mazamari,Tarde,177,19,44,35383,0,0,829.58
+SIM-01055,Mención en vivo,Redes sociales,Río Negro,Mañana,35,14,10,26154,0,0,351.65
+SIM-04763,Publicidad digital,Streaming,Pangoa,Mañana,88,28,16,3045,1,1,697.71
+SIM-00705,Publicidad digital,TV,Mazamari,Tarde,43,6,42,21928,1,0,561.53
+SIM-00351,Mención en vivo,Streaming,Río Negro,Tarde,53,26,11,39559,1,1,606.49
+SIM-03456,Mención en vivo,Redes sociales,Mazamari,Tarde,55,12,19,19366,1,0,470.82
+SIM-05204,Spot radial,Streaming,Mazamari,Noche,73,17,28,64792,1,1,738.76
+SIM-00410,Cobertura de evento,TV,Satipo,Mañana,101,5,36,24276,0,1,811.27
+SIM-04716,Publicidad digital,Streaming,Satipo,Mañana,57,23,26,17067,1,0,575.08
+SIM-02970,Spot radial,Redes sociales,Río Negro,Tarde,70,20,20,27670,1,1,637.43
+SIM-03729,Spot radial,Multiplataforma,Satipo,Mañana,135,28,5,43535,0,0,634.68
+SIM-04623,Mención en vivo,TV,Río Negro,Mañana,172,29,4,88725,0,0,684.27
+SIM-02018,Spot televisivo,TV,Río Negro,Tarde,154,2,34,54479,0,0,731.49
+SIM-05411,Publicidad digital,TV,Mazamari,Tarde,17,16,2,60139,0,0,415.48
+SIM-05415,Spot radial,Redes sociales,Pangoa,Mañana,23,5,14,29751,1,1,494.25
+SIM-01467,Mención en vivo,TV,Satipo,Noche,99,9,10,7511,0,1,554.47
+SIM-04423,Mención en vivo,Multiplataforma,Mazamari,Noche,160,13,26,5436,0,1,757.73
+SIM-05039,Publicidad digital,TV,Satipo,Tarde,100,15,7,32234,1,1,701.59
+SIM-00611,Cobertura de evento,TV,Mazamari,Mañana,137,26,7,38879,1,1,938.21
+SIM-01499,Mención en vivo,Redes sociales,Mazamari,Tarde,166,25,6,57625,0,1,724.39
+SIM-00401,Spot televisivo,TV,Río Negro,Noche,101,30,1,14632,1,1,785.97
+SIM-00776,Cobertura de evento,Redes sociales,Río Negro,Tarde,90,6,39,57315,0,1,814.33
+SIM-02094,Publicidad digital,TV,Río Negro,Mañana,136,28,15,30931,1,1,779.14
+SIM-04012,Mención en vivo,TV,Río Negro,Noche,175,5,14,1896,0,1,629.26
+SIM-01745,Spot televisivo,Multiplataforma,Satipo,Noche,73,7,34,12590,0,1,737.07
+SIM-02259,Spot radial,Redes sociales,Pangoa,Mañana,43,26,9,61806,0,0,484.39
+SIM-01844,Spot radial,Multiplataforma,Mazamari,Tarde,18,19,12,26440,1,1,614.23
+SIM-00501,Spot radial,TV,Río Negro,Mañana,165,6,45,10618,0,1,704.81
+SIM-00279,Publicidad digital,Redes sociales,Río Negro,Mañana,166,6,32,67489,0,0,676.44
+SIM-00135,Cobertura de evento,Multiplataforma,Pangoa,Tarde,71,20,18,42110,0,0,764.57
+SIM-03708,Mención en vivo,Multiplataforma,Pangoa,Mañana,107,23,39,46815,0,1,785.41
+SIM-04564,Spot radial,Multiplataforma,Río Negro,Mañana,61,30,6,9965,0,0,502.08
+SIM-01877,Mención en vivo,Multiplataforma,Satipo,Tarde,28,17,35,34118,1,0,595.82
+SIM-04700,Publicidad digital,Multiplataforma,Mazamari,Noche,110,18,32,30912,1,0,783.98
+SIM-03196,Mención en vivo,Multiplataforma,Río Negro,Mañana,58,3,1,4828,1,0,432.97
+SIM-02893,Spot televisivo,TV,Satipo,Mañana,15,9,5,72558,0,1,566.02
+SIM-00809,Spot televisivo,Streaming,Mazamari,Tarde,37,12,44,19991,0,1,653.19
+SIM-00996,Cobertura de evento,Redes sociales,Pangoa,Mañana,114,12,15,61590,0,1,823.14
+SIM-02252,Publicidad digital,Streaming,Satipo,Tarde,66,10,30,74287,1,1,735.51
+SIM-02689,Spot radial,Redes sociales,Pangoa,Tarde,39,2,19,64897,0,0,401.77
+SIM-00763,Spot radial,TV,Mazamari,Noche,25,23,34,78132,0,0,564.02
+SIM-04016,Spot televisivo,Multiplataforma,Mazamari,Mañana,34,2,36,59822,1,0,653.86
+SIM-04020,Mención en vivo,TV,Satipo,Mañana,132,29,21,59785,0,0,631.56
+SIM-01073,Spot radial,Redes sociales,Mazamari,Tarde,20,2,13,78135,0,0,346.27
+SIM-02973,Publicidad digital,Redes sociales,Pangoa,Mañana,73,26,38,1514,0,0,577.57
+SIM-05358,Publicidad digital,Redes sociales,Pangoa,Mañana,120,5,37,14541,0,0,583.87
+SIM-00538,Publicidad digital,TV,Río Negro,Mañana,105,19,34,26744,1,0,683.74
+SIM-01074,Publicidad digital,Streaming,Río Negro,Noche,20,1,8,15396,1,1,493.94
+SIM-05437,Cobertura de evento,Redes sociales,Río Negro,Tarde,179,6,18,895,1,0,833.99
+SIM-01335,Mención en vivo,Multiplataforma,Río Negro,Tarde,21,7,28,65024,1,1,637.6
+SIM-01075,Cobertura de evento,TV,Mazamari,Noche,158,24,31,47667,0,0,927.97
+SIM-00381,Publicidad digital,Multiplataforma,Río Negro,Tarde,46,2,2,10833,1,0,485.94
+SIM-00121,Spot radial,Redes sociales,Pangoa,Tarde,147,12,7,23638,0,1,633.13
+SIM-01897,Spot televisivo,Streaming,Mazamari,Noche,117,18,20,1102,0,1,729.42
+SIM-03928,Publicidad digital,Streaming,Mazamari,Mañana,36,8,33,30238,1,0,529.78
+SIM-03931,Spot radial,Multiplataforma,Río Negro,Noche,28,29,4,73974,0,0,550.99
+SIM-01186,Publicidad digital,Redes sociales,Satipo,Tarde,114,7,11,65905,1,0,608.71
+SIM-02275,Cobertura de evento,TV,Mazamari,Tarde,85,16,13,66612,1,0,788.5
+SIM-01545,Spot televisivo,Redes sociales,Río Negro,Noche,86,28,13,27779,0,0,623.02
+SIM-03929,Spot televisivo,Streaming,Río Negro,Tarde,30,11,20,52245,0,1,605.72
+SIM-01456,Cobertura de evento,Multiplataforma,Mazamari,Noche,150,4,35,66001,1,0,977.97
+SIM-01554,Spot radial,Streaming,Satipo,Tarde,116,4,22,83480,0,1,650.18
+SIM-01971,Spot radial,Multiplataforma,Pangoa,Tarde,22,18,22,65879,1,0,611.36
+SIM-03550,Publicidad digital,Streaming,Río Negro,Mañana,10,10,25,64473,0,0,424.28
+SIM-04873,Spot radial,Streaming,Mazamari,Noche,43,20,5,9574,0,0,411.31
+SIM-00418,Spot radial,Streaming,Satipo,Noche,152,2,17,20445,0,1,658.66
+SIM-04303,Spot radial,Redes sociales,Satipo,Mañana,180,20,34,43034,0,0,705.11
+SIM-03803,Publicidad digital,TV,Pangoa,Noche,83,28,41,27770,0,0,685.41
+SIM-02095,Cobertura de evento,Multiplataforma,Río Negro,Noche,58,18,1,31060,0,0,673.45
+SIM-04314,Mención en vivo,TV,Pangoa,Mañana,153,13,12,18608,1,0,606.11
+SIM-02704,Mención en vivo,Redes sociales,Mazamari,Noche,77,20,38,6398,0,0,529.53
+SIM-02792,Cobertura de evento,Redes sociales,Río Negro,Noche,52,9,13,76829,0,1,739.36
+SIM-05224,Cobertura de evento,Streaming,Mazamari,Tarde,125,30,25,77909,1,1,1041.65
+SIM-01117,Mención en vivo,TV,Mazamari,Mañana,51,6,6,19543,0,1,418.13
+SIM-01665,Spot radial,TV,Río Negro,Mañana,58,9,13,76699,1,1,602.05
+SIM-00553,Cobertura de evento,TV,Satipo,Mañana,103,2,10,51270,0,0,668.12
+SIM-01978,Cobertura de evento,TV,Pangoa,Tarde,38,20,29,4891,0,1,766.22
+SIM-02323,Spot televisivo,Streaming,Pangoa,Noche,55,5,17,2963,1,1,655.28
+SIM-04386,Cobertura de evento,Multiplataforma,Pangoa,Tarde,123,10,23,4533,0,0,799.92
+SIM-00240,Spot radial,TV,Pangoa,Mañana,19,30,22,52580,1,1,634.53
+SIM-02316,Publicidad digital,Streaming,Río Negro,Mañana,115,8,10,33921,0,1,596.77
+SIM-01032,Spot televisivo,TV,Mazamari,Mañana,159,7,27,9491,0,0,670.59
+SIM-04352,Spot televisivo,Multiplataforma,Río Negro,Tarde,170,3,8,59629,0,1,806.23
+SIM-02662,Mención en vivo,Streaming,Pangoa,Tarde,126,4,43,22845,1,1,747.64
+SIM-00764,Spot radial,TV,Mazamari,Tarde,21,28,34,8879,1,0,554.19
+SIM-00807,Cobertura de evento,Redes sociales,Satipo,Mañana,25,17,39,22745,0,1,738.82
+SIM-04787,Publicidad digital,Streaming,Pangoa,Tarde,65,6,20,41382,0,1,558.38
+SIM-04908,Mención en vivo,Streaming,Río Negro,Mañana,69,8,35,65021,1,1,647.55
+SIM-04877,Mención en vivo,Streaming,Pangoa,Mañana,74,4,31,77793,0,0,494.7
+SIM-01526,Cobertura de evento,Redes sociales,Pangoa,Tarde,173,28,2,12443,0,0,820.91
+SIM-01869,Mención en vivo,Streaming,Pangoa,Mañana,73,26,9,20624,0,1,548.25
+SIM-03809,Cobertura de evento,Streaming,Mazamari,Noche,34,24,40,80504,0,1,858.86
+SIM-01973,Spot televisivo,Redes sociales,Río Negro,Noche,17,19,8,33763,1,1,660.9
+SIM-01163,Mención en vivo,Multiplataforma,Mazamari,Mañana,42,29,22,60866,0,0,561.76
+SIM-03035,Spot radial,TV,Río Negro,Tarde,42,6,5,69547,0,1,480.04
+SIM-05544,Cobertura de evento,Redes sociales,Río Negro,Mañana,157,12,12,88200,1,1,962.3
+SIM-02231,Publicidad digital,Redes sociales,Pangoa,Tarde,133,13,3,25650,1,0,610.02
+SIM-01650,Publicidad digital,Redes sociales,Mazamari,Tarde,104,22,29,20582,0,1,676.34
+SIM-05128,Spot radial,Streaming,Mazamari,Noche,96,15,26,74872,0,1,676.14
+SIM-04959,Publicidad digital,TV,Río Negro,Tarde,11,27,37,36197,1,0,585.83
+SIM-02638,Spot televisivo,Streaming,Satipo,Tarde,98,23,21,19929,0,0,640.51
+SIM-04660,Spot radial,Multiplataforma,Pangoa,Noche,71,24,35,81850,0,0,716.15
+SIM-03142,Mención en vivo,Streaming,Satipo,Tarde,101,20,25,2915,1,0,574.66
+SIM-01419,Spot televisivo,TV,Río Negro,Mañana,105,18,1,46926,1,0,645.94
+SIM-00208,Mención en vivo,Redes sociales,Pangoa,Tarde,15,13,41,76912,1,0,556.64
+SIM-01095,Mención en vivo,TV,Pangoa,Noche,171,10,13,34492,1,0,672.47
+SIM-00865,Mención en vivo,Streaming,Mazamari,Noche,74,27,11,19741,1,1,663.3
+SIM-01614,Spot radial,Multiplataforma,Satipo,Noche,83,24,44,26566,0,1,775.95
+SIM-00248,Mención en vivo,Redes sociales,Satipo,Noche,52,19,43,37695,1,1,695.92
+SIM-04593,Spot televisivo,Streaming,Pangoa,Noche,144,3,34,85628,0,0,786.01
+SIM-02721,Spot televisivo,Redes sociales,Río Negro,Tarde,58,16,9,86166,1,0,632.87
+SIM-03765,Publicidad digital,TV,Satipo,Mañana,132,23,17,25354,0,0,618.79
+SIM-01886,Publicidad digital,TV,Satipo,Noche,151,25,18,26402,0,1,794.28
+SIM-00439,Publicidad digital,Streaming,Pangoa,Mañana,169,11,17,89130,1,1,854.45
+SIM-01924,Spot radial,Multiplataforma,Río Negro,Noche,32,18,42,77545,0,1,720.65
+SIM-04932,Publicidad digital,Multiplataforma,Satipo,Noche,28,25,41,77625,1,1,841.84
+SIM-02611,Spot televisivo,TV,Pangoa,Mañana,168,5,40,84596,1,0,864.58
+SIM-03745,Mención en vivo,Redes sociales,Satipo,Mañana,66,21,10,13323,1,0,480.52
+SIM-03800,Spot radial,Streaming,Mazamari,Tarde,97,29,18,61584,0,1,682.77
+SIM-04885,Spot televisivo,Redes sociales,Mazamari,Noche,16,20,15,78460,0,1,659.18
+SIM-04229,Publicidad digital,Multiplataforma,Satipo,Mañana,99,24,23,82464,0,1,793.94
+SIM-00534,Spot radial,Redes sociales,Pangoa,Tarde,166,8,16,27844,1,1,729.93
+SIM-03106,Spot televisivo,Multiplataforma,Satipo,Noche,18,11,26,34740,0,1,672.22
+SIM-02091,Cobertura de evento,TV,Mazamari,Noche,139,3,6,1291,0,0,666.58
+SIM-03692,Spot televisivo,TV,Río Negro,Mañana,45,23,29,4910,1,1,730.0
+SIM-00102,Publicidad digital,TV,Río Negro,Tarde,91,7,43,15694,0,1,640.13
+SIM-03337,Publicidad digital,Streaming,Río Negro,Tarde,18,3,27,26884,1,0,462.89
+SIM-02658,Publicidad digital,Multiplataforma,Satipo,Tarde,176,30,35,32736,1,1,1008.87
+SIM-00903,Publicidad digital,TV,Satipo,Noche,64,13,45,72818,1,0,716.81
+SIM-03896,Spot televisivo,Streaming,Satipo,Mañana,120,20,9,68366,0,0,668.21
+SIM-04989,Spot radial,Redes sociales,Pangoa,Noche,99,9,17,73675,1,1,738.94
+SIM-01158,Cobertura de evento,Multiplataforma,Satipo,Noche,73,29,33,67848,1,0,968.16
+SIM-03944,Cobertura de evento,Multiplataforma,Pangoa,Mañana,50,28,23,44247,0,1,858.5
+SIM-02407,Publicidad digital,TV,Río Negro,Noche,63,26,36,51531,0,1,725.17
+SIM-00107,Spot radial,Redes sociales,Río Negro,Mañana,66,8,7,24039,0,1,461.3
+SIM-02476,Spot televisivo,TV,Satipo,Tarde,82,15,14,38258,0,0,577.04
+SIM-00029,Cobertura de evento,TV,Mazamari,Noche,146,3,39,4588,1,1,968.39
+SIM-01965,Spot televisivo,Streaming,Pangoa,Noche,112,2,24,50363,0,0,643.03
+SIM-03077,Spot radial,Streaming,Satipo,Tarde,88,28,2,1744,0,0,448.02
+SIM-01593,Publicidad digital,Streaming,Satipo,Noche,159,5,38,64173,0,1,805.19
+SIM-02022,Spot radial,Multiplataforma,Mazamari,Mañana,149,16,35,15910,0,0,670.04
+SIM-00239,Spot televisivo,Streaming,Pangoa,Noche,57,22,2,34635,1,1,711.63
+SIM-04882,Publicidad digital,TV,Río Negro,Tarde,154,30,41,6481,1,1,901.72
+SIM-03909,Spot radial,Multiplataforma,Mazamari,Mañana,66,2,9,54799,1,0,517.86
+SIM-04399,Cobertura de evento,TV,Río Negro,Noche,44,21,34,9010,0,1,775.89
+SIM-01199,Spot radial,Redes sociales,Pangoa,Noche,42,25,33,36034,0,1,612.5
+SIM-04838,Spot televisivo,TV,Río Negro,Tarde,139,8,1,56853,0,1,700.92
+SIM-01121,Mención en vivo,Multiplataforma,Mazamari,Mañana,82,9,26,57438,1,0,616.59
+SIM-02288,Publicidad digital,Redes sociales,Satipo,Mañana,23,4,35,818,1,1,549.41
+SIM-04248,Publicidad digital,Redes sociales,Río Negro,Mañana,61,28,32,80947,1,1,757.42
+SIM-02271,Publicidad digital,Redes sociales,Satipo,Mañana,53,16,25,63038,0,0,520.27
+SIM-04473,Spot radial,Multiplataforma,Río Negro,Mañana,109,28,6,50709,1,1,763.83
+SIM-00584,Mención en vivo,Redes sociales,Río Negro,Noche,50,1,18,15806,1,1,520.01
+SIM-03418,Cobertura de evento,Redes sociales,Mazamari,Mañana,21,3,19,18130,1,0,585.5
+SIM-04301,Cobertura de evento,Multiplataforma,Satipo,Tarde,130,4,19,41019,1,1,952.74
+SIM-02477,Cobertura de evento,TV,Pangoa,Noche,136,17,33,53694,1,1,1027.98
+SIM-05478,Mención en vivo,Streaming,Río Negro,Noche,110,25,26,70349,0,1,715.15
+SIM-01323,Cobertura de evento,Redes sociales,Río Negro,Mañana,57,23,37,70741,1,0,823.4
+SIM-00199,Cobertura de evento,Streaming,Satipo,Tarde,153,4,35,72492,1,0,915.84
+SIM-00599,Spot televisivo,Multiplataforma,Mazamari,Noche,164,10,16,54470,0,0,798.83
+SIM-05156,Spot televisivo,TV,Satipo,Tarde,79,16,14,63452,0,1,698.41
+SIM-00915,Publicidad digital,Streaming,Satipo,Tarde,156,13,22,66883,1,1,849.93
+SIM-01253,Mención en vivo,Streaming,Satipo,Mañana,153,26,22,35692,1,0,699.89
+SIM-02215,Spot televisivo,Multiplataforma,Mazamari,Tarde,159,29,4,23621,1,1,915.02
+SIM-05339,Publicidad digital,Redes sociales,Satipo,Noche,70,21,27,21073,1,0,640.74
+SIM-04084,Mención en vivo,TV,Río Negro,Noche,54,15,17,76297,0,0,489.53
+SIM-05189,Mención en vivo,Redes sociales,Satipo,Mañana,95,11,19,85076,0,1,607.34
+SIM-03631,Spot televisivo,Multiplataforma,Satipo,Mañana,43,2,40,6543,1,0,628.68
+SIM-04448,Cobertura de evento,Multiplataforma,Mazamari,Tarde,176,20,16,5798,0,1,991.39
+SIM-03393,Cobertura de evento,Redes sociales,Pangoa,Tarde,122,23,38,8757,1,0,893.86
+SIM-04190,Cobertura de evento,Multiplataforma,Río Negro,Mañana,73,18,43,23196,0,1,888.55
+SIM-02404,Cobertura de evento,TV,Mazamari,Mañana,87,12,2,40492,1,0,703.11
+SIM-01945,Mención en vivo,TV,Mazamari,Tarde,74,21,11,71015,0,0,516.61
+SIM-00598,Mención en vivo,Multiplataforma,Río Negro,Mañana,88,12,43,36479,1,1,773.19
+SIM-04546,Cobertura de evento,Multiplataforma,Satipo,Mañana,56,29,5,28029,1,1,880.87
+SIM-01173,Spot radial,Multiplataforma,Río Negro,Noche,166,14,30,89362,1,0,862.03
+SIM-02233,Spot radial,TV,Satipo,Mañana,68,13,42,78818,0,0,568.24
+SIM-04516,Mención en vivo,TV,Pangoa,Mañana,137,2,4,11506,1,0,522.84
+SIM-04900,Spot televisivo,Multiplataforma,Satipo,Mañana,68,5,25,11609,0,1,667.92
+SIM-02254,Spot radial,Multiplataforma,Pangoa,Tarde,69,30,5,29823,0,1,643.38
+SIM-05150,Publicidad digital,Multiplataforma,Río Negro,Noche,31,7,41,47270,1,0,654.48
+SIM-02802,Publicidad digital,Multiplataforma,Mazamari,Mañana,169,27,28,63604,0,1,935.71
+SIM-03404,Spot radial,Streaming,Río Negro,Noche,26,16,14,35338,1,1,567.29
+SIM-05533,Spot radial,TV,Río Negro,Noche,159,23,38,80529,1,1,930.3
+SIM-04740,Mención en vivo,Multiplataforma,Pangoa,Noche,162,8,18,74265,1,0,776.98
+SIM-04487,Spot televisivo,Streaming,Pangoa,Tarde,60,27,12,61562,0,1,679.15
+SIM-02850,Cobertura de evento,Redes sociales,Mazamari,Tarde,142,20,36,22270,0,0,847.99
+SIM-02456,Spot televisivo,Streaming,Satipo,Mañana,83,5,43,1417,0,0,578.51
+SIM-04600,Publicidad digital,Streaming,Pangoa,Noche,37,29,38,72827,1,1,795.23
+SIM-00293,Spot radial,Redes sociales,Pangoa,Noche,149,16,40,73024,1,1,879.27
+SIM-00371,Spot radial,TV,Río Negro,Noche,21,16,22,9582,1,1,596.43
+SIM-02867,Mención en vivo,Multiplataforma,Mazamari,Mañana,26,10,44,59577,0,0,548.03
+SIM-00468,Mención en vivo,Redes sociales,Pangoa,Tarde,142,12,37,65948,0,1,720.4
+SIM-04095,Mención en vivo,Multiplataforma,Mazamari,Mañana,167,23,31,88235,1,0,846.78
+SIM-01103,Publicidad digital,Redes sociales,Pangoa,Tarde,149,16,7,17356,1,1,752.14
+SIM-02098,Publicidad digital,Streaming,Pangoa,Tarde,45,1,7,86059,1,1,608.5
+SIM-04917,Publicidad digital,Redes sociales,Pangoa,Mañana,95,17,31,85330,0,1,723.27
+SIM-03649,Mención en vivo,TV,Río Negro,Mañana,158,29,43,76697,0,1,838.27
+SIM-05075,Cobertura de evento,Streaming,Río Negro,Tarde,38,5,25,71109,1,1,782.87
+SIM-03126,Spot televisivo,Redes sociales,Satipo,Tarde,82,8,5,73141,0,1,644.94
+SIM-01433,Mención en vivo,TV,Mazamari,Noche,16,20,35,19072,0,0,441.93
+SIM-00157,Mención en vivo,TV,Mazamari,Tarde,119,24,21,70939,0,0,612.1
+SIM-00065,Publicidad digital,TV,Pangoa,Mañana,125,29,36,58408,0,1,816.13
+SIM-05416,Spot radial,TV,Río Negro,Noche,53,16,24,6294,0,1,552.86
+SIM-00245,Spot televisivo,TV,Mazamari,Tarde,90,15,32,77438,1,1,859.81
+SIM-01747,Spot radial,Streaming,Río Negro,Mañana,38,15,20,53563,1,1,592.45
+SIM-00367,Spot radial,Streaming,Río Negro,Noche,154,29,38,2367,0,0,688.63
+SIM-05425,Publicidad digital,Redes sociales,Mazamari,Tarde,91,10,1,60431,0,0,492.69
+SIM-03628,Spot radial,Streaming,Satipo,Noche,106,2,26,23294,1,1,681.04
+SIM-01215,Cobertura de evento,Streaming,Mazamari,Noche,133,27,13,5859,0,0,790.16
+SIM-03539,Spot televisivo,Redes sociales,Satipo,Noche,67,4,40,19409,1,1,758.67
+SIM-02229,Spot radial,Redes sociales,Pangoa,Tarde,140,9,36,70082,1,0,704.78
+SIM-01703,Publicidad digital,Multiplataforma,Mazamari,Tarde,129,25,13,4704,1,0,723.79
+SIM-04624,Mención en vivo,TV,Pangoa,Noche,166,15,36,15606,1,1,828.49
+SIM-04746,Spot radial,Redes sociales,Pangoa,Noche,34,16,29,38446,0,0,491.8
+SIM-01086,Mención en vivo,TV,Río Negro,Mañana,47,17,26,57651,0,1,552.69
+SIM-05297,Mención en vivo,TV,Pangoa,Tarde,114,27,40,55409,0,0,689.84
+SIM-01891,Spot radial,TV,Satipo,Mañana,125,10,35,11675,0,0,577.35
+SIM-05061,Mención en vivo,Streaming,Pangoa,Tarde,93,19,4,45301,1,0,544.63
+SIM-01197,Spot radial,Multiplataforma,Mazamari,Mañana,157,28,6,44395,0,0,689.95
+SIM-00589,Spot radial,Multiplataforma,Satipo,Mañana,151,28,35,14990,0,0,725.34
+SIM-03082,Cobertura de evento,Streaming,Pangoa,Mañana,26,10,35,28692,0,0,620.02
+SIM-02488,Publicidad digital,Redes sociales,Mazamari,Tarde,175,6,19,3208,0,1,678.56
+SIM-04043,Spot radial,Multiplataforma,Satipo,Noche,106,4,33,71352,1,1,833.01
+SIM-02223,Publicidad digital,TV,Mazamari,Noche,128,4,6,16011,0,1,639.03
+SIM-04309,Spot radial,Redes sociales,Pangoa,Mañana,67,11,39,39660,1,0,560.31
+SIM-05480,Mención en vivo,TV,Mazamari,Tarde,97,13,25,81543,0,0,576.42
+SIM-01501,Spot radial,Streaming,Pangoa,Tarde,170,9,21,16362,1,0,650.53
+SIM-01242,Publicidad digital,Redes sociales,Pangoa,Mañana,168,18,29,19255,1,1,836.08
+SIM-01564,Spot televisivo,TV,Mazamari,Tarde,179,16,4,52739,0,1,811.72
+SIM-01480,Publicidad digital,TV,Mazamari,Tarde,49,1,34,58813,1,1,668.32
+SIM-04031,Cobertura de evento,Multiplataforma,Mazamari,Noche,150,1,12,23030,0,0,790.71
+SIM-00151,Spot radial,TV,Mazamari,Tarde,62,26,8,18263,1,0,528.68
+SIM-05199,Publicidad digital,Multiplataforma,Satipo,Mañana,42,12,21,10738,0,0,508.48
+SIM-01305,Publicidad digital,Redes sociales,Río Negro,Tarde,44,2,7,47078,0,1,460.67
+SIM-01586,Spot radial,Streaming,Río Negro,Noche,77,7,14,83548,1,0,566.94
+SIM-04898,Mención en vivo,Streaming,Mazamari,Noche,138,14,8,7508,1,1,670.63
+SIM-01738,Cobertura de evento,TV,Satipo,Mañana,135,11,16,28447,0,0,740.3
+SIM-00800,Cobertura de evento,Multiplataforma,Río Negro,Tarde,173,5,19,79780,1,0,964.74
+SIM-03252,Mención en vivo,TV,Río Negro,Mañana,114,17,1,7694,0,1,539.34
+SIM-01101,Cobertura de evento,Multiplataforma,Satipo,Tarde,101,27,3,16795,1,1,934.41
+SIM-04287,Mención en vivo,Redes sociales,Río Negro,Mañana,41,13,14,25940,0,1,446.95
+SIM-02509,Publicidad digital,Streaming,Satipo,Tarde,59,30,19,8241,0,0,520.14
+SIM-02561,Spot radial,Streaming,Satipo,Mañana,101,2,25,11322,0,0,458.52
+SIM-02882,Mención en vivo,Multiplataforma,Satipo,Noche,40,26,40,83234,0,0,663.91
+SIM-04204,Spot radial,Multiplataforma,Pangoa,Tarde,137,16,42,42398,1,0,798.07
+SIM-04085,Mención en vivo,Streaming,Río Negro,Tarde,129,5,22,69593,1,0,626.5
+SIM-01172,Spot televisivo,Streaming,Mazamari,Tarde,77,28,37,53904,0,0,718.87
+SIM-00491,Publicidad digital,TV,Mazamari,Mañana,69,21,36,29792,1,0,645.38
+SIM-04975,Mención en vivo,Redes sociales,Satipo,Tarde,168,4,27,88557,0,1,724.86
+SIM-00471,Spot televisivo,Multiplataforma,Mazamari,Tarde,138,6,11,60131,1,0,775.18
+SIM-02605,Spot televisivo,Multiplataforma,Satipo,Noche,16,24,23,23244,0,1,705.22
+SIM-03895,Spot televisivo,Multiplataforma,Río Negro,Tarde,150,13,38,83859,1,0,918.8
+SIM-01860,Mención en vivo,TV,Pangoa,Tarde,94,21,32,27642,1,0,635.78
+SIM-03622,Spot televisivo,Multiplataforma,Río Negro,Noche,138,22,4,32238,0,1,818.15
+SIM-00251,Cobertura de evento,Streaming,Mazamari,Noche,41,21,25,40904,0,0,696.86
+SIM-03927,Publicidad digital,Streaming,Mazamari,Mañana,33,24,15,39503,1,0,540.27
+SIM-04960,Publicidad digital,TV,Río Negro,Noche,167,9,31,63267,1,0,790.68
+SIM-02851,Spot televisivo,TV,Pangoa,Mañana,131,17,24,53388,1,1,886.47
+SIM-00655,Spot televisivo,Multiplataforma,Satipo,Noche,106,4,20,38601,0,0,669.58
+SIM-00227,Cobertura de evento,Redes sociales,Mazamari,Mañana,10,25,13,44012,1,1,743.03
+SIM-02232,Mención en vivo,Multiplataforma,Satipo,Noche,63,28,32,73871,0,0,660.75
+SIM-01454,Mención en vivo,Redes sociales,Pangoa,Noche,32,27,11,6330,1,0,479.49
+SIM-02372,Spot radial,TV,Río Negro,Noche,46,2,3,6986,0,1,431.43
+SIM-02688,Spot televisivo,Redes sociales,Pangoa,Tarde,20,4,15,77361,1,0,530.18
+SIM-00626,Publicidad digital,Redes sociales,Pangoa,Noche,27,28,12,33428,1,1,669.39
+SIM-03290,Spot radial,Multiplataforma,Mazamari,Tarde,166,18,5,43265,1,1,814.01
+SIM-03074,Spot televisivo,Redes sociales,Mazamari,Tarde,39,4,29,50514,1,1,682.82
+SIM-00696,Spot radial,Multiplataforma,Satipo,Mañana,143,30,12,15024,1,1,841.41
+SIM-03383,Spot radial,Redes sociales,Río Negro,Noche,178,21,31,18373,0,0,705.46
+SIM-05107,Mención en vivo,Multiplataforma,Satipo,Noche,101,7,21,1365,0,0,523.47
+SIM-00292,Mención en vivo,Multiplataforma,Pangoa,Tarde,14,13,6,48568,0,0,417.65
+SIM-02006,Spot televisivo,Redes sociales,Río Negro,Noche,18,14,25,17558,0,0,519.82
+SIM-04561,Spot radial,TV,Río Negro,Tarde,47,4,12,42657,0,1,460.64
+SIM-03985,Spot radial,Redes sociales,Mazamari,Tarde,39,30,29,87132,0,1,638.05
+SIM-00712,Cobertura de evento,Multiplataforma,Pangoa,Mañana,117,5,37,38461,0,0,822.67
+SIM-01176,Cobertura de evento,Streaming,Satipo,Mañana,32,9,45,69139,1,1,854.76
+SIM-02943,Cobertura de evento,TV,Mazamari,Tarde,159,21,41,13587,1,1,1039.57
+SIM-02337,Spot televisivo,Streaming,Satipo,Tarde,139,20,14,89092,1,1,886.29
+SIM-02157,Mención en vivo,Streaming,Mazamari,Mañana,92,9,29,38258,1,0,579.66
+SIM-03857,Spot radial,Multiplataforma,Mazamari,Mañana,149,17,32,51725,1,0,783.99
+SIM-05553,Cobertura de evento,Redes sociales,Mazamari,Mañana,20,9,4,39093,0,0,505.54
+SIM-01319,Mención en vivo,Streaming,Pangoa,Noche,60,6,41,23544,0,1,589.25
+SIM-03761,Mención en vivo,TV,Satipo,Noche,103,25,24,79438,1,0,703.69
+SIM-00576,Spot radial,TV,Satipo,Mañana,54,11,21,88037,1,0,563.61
+SIM-03487,Publicidad digital,Streaming,Mazamari,Noche,152,28,31,89700,1,0,876.96
+SIM-04378,Publicidad digital,Streaming,Río Negro,Noche,82,21,2,47296,1,1,686.21
+SIM-04439,Spot televisivo,Multiplataforma,Satipo,Mañana,10,3,36,34275,0,1,630.77
+SIM-02977,Publicidad digital,TV,Mazamari,Mañana,16,23,7,80853,1,0,545.18
+SIM-02481,Publicidad digital,Redes sociales,Mazamari,Noche,27,4,20,87810,0,0,478.37
+SIM-04141,Cobertura de evento,Redes sociales,Río Negro,Mañana,60,25,16,88358,0,1,803.43
+SIM-04928,Publicidad digital,Streaming,Pangoa,Noche,178,22,45,72996,1,1,1000.3
+SIM-03045,Spot radial,Multiplataforma,Mazamari,Mañana,73,27,33,61038,0,0,664.5
+SIM-01334,Mención en vivo,Multiplataforma,Mazamari,Tarde,41,25,10,27218,1,1,654.02
+SIM-01562,Publicidad digital,Multiplataforma,Satipo,Mañana,75,20,40,24873,0,1,730.86
+SIM-03755,Spot radial,Redes sociales,Pangoa,Tarde,154,12,2,13002,0,1,577.32
+SIM-00505,Spot radial,Streaming,Satipo,Noche,41,17,39,17862,1,1,666.19
+SIM-04471,Publicidad digital,Multiplataforma,Río Negro,Tarde,51,13,7,89188,1,1,714.04
+SIM-01020,Cobertura de evento,Multiplataforma,Mazamari,Mañana,136,9,7,1964,1,1,895.46
+SIM-01654,Mención en vivo,Redes sociales,Mazamari,Noche,11,14,11,78592,1,0,458.71
+SIM-05145,Publicidad digital,Streaming,Río Negro,Noche,153,18,2,47505,0,0,615.33
+SIM-03378,Cobertura de evento,Redes sociales,Satipo,Mañana,89,12,32,41158,1,1,884.68
+SIM-03162,Cobertura de evento,Multiplataforma,Pangoa,Noche,11,1,38,87074,0,1,838.61
+SIM-00106,Spot televisivo,Streaming,Río Negro,Mañana,101,17,2,86630,1,0,681.89
+SIM-04824,Cobertura de evento,Redes sociales,Mazamari,Tarde,55,21,9,11259,1,0,688.16
+SIM-03105,Publicidad digital,TV,Río Negro,Mañana,159,27,4,4793,0,0,616.23
+SIM-02505,Publicidad digital,TV,Mazamari,Mañana,132,15,45,32027,0,1,763.08
+SIM-01038,Mención en vivo,Multiplataforma,Mazamari,Mañana,19,20,28,3416,0,1,540.17
+SIM-02962,Mención en vivo,Redes sociales,Satipo,Noche,70,1,5,63992,0,1,495.42
+SIM-01740,Mención en vivo,Multiplataforma,Mazamari,Mañana,177,12,28,46419,1,1,864.25
+SIM-05186,Cobertura de evento,TV,Satipo,Noche,96,4,16,72241,0,1,833.68
+SIM-02559,Publicidad digital,Multiplataforma,Satipo,Tarde,170,7,1,87115,0,0,700.19
+SIM-01425,Spot radial,Redes sociales,Río Negro,Tarde,48,15,24,41012,1,0,538.39
+SIM-03395,Spot radial,Multiplataforma,Río Negro,Noche,30,12,22,77582,1,1,715.7
+SIM-02432,Publicidad digital,TV,Río Negro,Noche,49,1,29,57110,0,1,598.07
+SIM-05067,Spot radial,Streaming,Río Negro,Tarde,107,2,24,21688,1,1,638.06
+SIM-01084,Spot radial,Multiplataforma,Satipo,Mañana,54,9,30,53424,1,1,701.25
+SIM-00416,Mención en vivo,Redes sociales,Satipo,Tarde,92,10,29,63552,1,1,681.39
+SIM-01181,Publicidad digital,Streaming,Mazamari,Tarde,58,6,12,27308,0,1,515.87
+SIM-04336,Spot televisivo,Streaming,Mazamari,Tarde,152,16,1,67964,0,0,667.62
+SIM-02042,Cobertura de evento,Multiplataforma,Pangoa,Tarde,29,4,38,61933,1,1,870.06
+SIM-00478,Spot radial,Multiplataforma,Río Negro,Mañana,68,21,33,51112,1,1,762.14
+SIM-01961,Cobertura de evento,TV,Mazamari,Mañana,31,4,34,13098,1,0,639.38
+SIM-00179,Spot televisivo,TV,Satipo,Tarde,111,20,45,18197,1,1,895.32
+SIM-00896,Publicidad digital,Multiplataforma,Satipo,Mañana,100,10,21,4051,1,0,644.48
+SIM-04055,Mención en vivo,Streaming,Satipo,Noche,37,8,3,62912,0,1,483.75
+SIM-05593,Cobertura de evento,Streaming,Pangoa,Tarde,25,19,28,71887,0,0,686.4
+SIM-00877,Mención en vivo,Redes sociales,Mazamari,Noche,119,13,27,32176,0,1,642.67
+SIM-02647,Spot radial,Redes sociales,Satipo,Noche,58,10,35,81840,1,1,720.32
+SIM-05237,Spot radial,Streaming,Mazamari,Noche,119,26,43,79172,0,0,739.05
+SIM-03614,Cobertura de evento,TV,Pangoa,Noche,108,26,38,48852,0,0,873.54
+SIM-00724,Spot radial,Streaming,Pangoa,Noche,112,3,17,83740,0,0,566.97
+SIM-00497,Publicidad digital,Redes sociales,Satipo,Noche,33,18,42,57814,0,1,703.15
+SIM-02072,Spot televisivo,Streaming,Satipo,Tarde,85,4,39,56546,0,1,713.76
+SIM-00748,Spot televisivo,Multiplataforma,Satipo,Noche,149,10,39,81515,1,1,1030.3
+SIM-05089,Mención en vivo,Streaming,Satipo,Mañana,71,11,24,76005,1,1,643.34
+SIM-02463,Publicidad digital,Multiplataforma,Mazamari,Mañana,58,13,42,72796,0,1,730.71
+SIM-03611,Mención en vivo,Redes sociales,Satipo,Mañana,110,16,28,67335,0,0,574.48
+SIM-01598,Spot televisivo,TV,Mazamari,Tarde,86,29,11,73382,1,1,852.39
+SIM-00472,Publicidad digital,Streaming,Satipo,Noche,144,26,35,52368,0,0,754.98
+SIM-03674,Cobertura de evento,Streaming,Mazamari,Mañana,97,29,41,67502,0,0,856.09
+SIM-03227,Publicidad digital,TV,Mazamari,Mañana,33,19,17,78524,1,0,573.19
+SIM-04867,Spot televisivo,Multiplataforma,Mazamari,Noche,86,11,45,70768,0,0,791.01
+SIM-02985,Spot radial,TV,Mazamari,Tarde,124,19,23,22949,1,1,735.75
+SIM-00473,Spot televisivo,TV,Mazamari,Noche,157,10,16,31200,0,1,777.09
+SIM-03527,Mención en vivo,Streaming,Río Negro,Mañana,46,30,2,74422,1,1,611.48
+SIM-02117,Mención en vivo,TV,Pangoa,Tarde,157,11,23,75842,0,1,735.14
+SIM-01647,Spot radial,Streaming,Satipo,Tarde,163,7,26,25411,0,1,675.15
+SIM-01918,Spot radial,Redes sociales,Mazamari,Mañana,131,19,17,68169,0,1,691.57
+SIM-04515,Mención en vivo,Streaming,Río Negro,Noche,174,24,42,34348,0,1,832.52
+SIM-03471,Publicidad digital,Streaming,Pangoa,Mañana,166,11,21,9696,1,0,669.4
+SIM-00272,Mención en vivo,Streaming,Río Negro,Tarde,33,4,45,6961,0,0,403.72
+SIM-02834,Cobertura de evento,Multiplataforma,Satipo,Noche,88,9,42,85354,1,1,1062.14
+SIM-00336,Publicidad digital,TV,Río Negro,Noche,119,19,10,67786,0,0,614.47
+SIM-02067,Mención en vivo,TV,Pangoa,Mañana,78,8,1,75925,0,1,533.14
+SIM-03149,Spot televisivo,Multiplataforma,Pangoa,Tarde,21,18,17,35598,1,0,640.13
+SIM-00625,Mención en vivo,Streaming,Satipo,Mañana,158,1,29,79901,1,1,765.6
+SIM-02618,Spot televisivo,Redes sociales,Mazamari,Tarde,29,24,38,87497,0,1,747.36
+SIM-01617,Publicidad digital,Streaming,Pangoa,Tarde,173,9,14,63468,0,1,759.74
+SIM-05318,Spot radial,Multiplataforma,Pangoa,Tarde,112,15,11,41526,1,0,675.19
+SIM-01881,Cobertura de evento,Multiplataforma,Satipo,Mañana,73,9,27,77282,0,1,867.65
+SIM-05198,Spot televisivo,Streaming,Satipo,Tarde,38,10,13,80188,0,1,630.92
+SIM-00486,Mención en vivo,Streaming,Río Negro,Tarde,97,29,1,78666,1,1,696.77
+SIM-01407,Cobertura de evento,TV,Mazamari,Noche,49,14,23,21627,1,0,739.2
+SIM-00286,Spot televisivo,Streaming,Mazamari,Noche,146,3,21,30298,1,1,816.81
+SIM-04607,Cobertura de evento,Multiplataforma,Mazamari,Tarde,11,21,40,9333,1,0,798.13
+SIM-00907,Cobertura de evento,TV,Satipo,Noche,23,14,38,53419,0,1,780.68
+SIM-03783,Spot radial,TV,Río Negro,Noche,90,19,27,9485,0,1,646.26
+SIM-00254,Mención en vivo,Streaming,Mazamari,Mañana,54,27,7,17552,1,1,579.88
+SIM-05303,Publicidad digital,Multiplataforma,Río Negro,Noche,113,14,27,69228,1,1,884.44
+SIM-03620,Spot radial,Streaming,Río Negro,Noche,29,30,8,61515,0,1,586.54
+SIM-02865,Spot televisivo,TV,Satipo,Mañana,46,5,12,57261,1,0,568.88
+SIM-03742,Publicidad digital,TV,Mazamari,Tarde,80,18,33,33806,0,1,663.63
+SIM-02778,Spot televisivo,TV,Río Negro,Noche,95,22,14,88795,1,1,861.51
+SIM-01235,Spot televisivo,Streaming,Mazamari,Tarde,93,20,20,59736,0,0,643.24
+SIM-02917,Spot televisivo,Multiplataforma,Mazamari,Tarde,44,9,36,26341,1,1,774.51
+SIM-04755,Spot televisivo,TV,Satipo,Tarde,128,7,26,36689,1,0,725.6
+SIM-04274,Spot radial,Multiplataforma,Río Negro,Tarde,67,16,18,86168,1,1,754.03
+SIM-02153,Publicidad digital,Multiplataforma,Mazamari,Noche,97,23,28,10053,1,1,836.73
+SIM-02291,Spot televisivo,Redes sociales,Satipo,Tarde,78,3,2,47987,1,1,654.52
+SIM-02580,Mención en vivo,TV,Mazamari,Mañana,75,8,31,75577,0,0,524.52
+SIM-04072,Cobertura de evento,Streaming,Satipo,Noche,54,19,13,15474,1,1,801.18
+SIM-01533,Publicidad digital,TV,Mazamari,Noche,10,18,14,75402,0,1,585.48
+SIM-03435,Cobertura de evento,Multiplataforma,Satipo,Tarde,15,24,28,79334,0,1,866.15
+SIM-03396,Spot radial,Redes sociales,Satipo,Noche,65,1,13,38809,0,0,419.7
+SIM-03691,Spot radial,Multiplataforma,Mazamari,Noche,144,19,33,73745,0,1,867.38
+SIM-01049,Spot radial,Redes sociales,Río Negro,Noche,60,15,34,21165,1,1,666.91
+SIM-04728,Mención en vivo,TV,Río Negro,Noche,17,5,16,87326,1,0,491.61
+SIM-04666,Mención en vivo,TV,Pangoa,Tarde,29,25,14,41110,0,0,439.02
+SIM-05286,Spot radial,Multiplataforma,Mazamari,Mañana,56,20,39,44349,0,0,597.17
+SIM-01874,Publicidad digital,Streaming,Mazamari,Noche,161,18,31,35492,0,1,790.16
+SIM-00893,Mención en vivo,Redes sociales,Río Negro,Tarde,25,3,23,66852,0,0,365.64
+SIM-02627,Cobertura de evento,Redes sociales,Satipo,Tarde,15,18,2,32758,0,0,529.51
+SIM-00683,Mención en vivo,Redes sociales,Satipo,Noche,96,18,27,25357,0,0,564.53
+SIM-00071,Spot radial,Multiplataforma,Río Negro,Tarde,175,5,15,75458,1,1,850.71
+SIM-04436,Cobertura de evento,Redes sociales,Mazamari,Tarde,65,4,21,60378,0,1,720.06
+SIM-03408,Publicidad digital,Multiplataforma,Pangoa,Mañana,86,1,35,87907,0,1,720.87
+SIM-03405,Publicidad digital,Streaming,Río Negro,Mañana,36,28,24,49805,1,0,581.67
+SIM-03193,Cobertura de evento,TV,Mazamari,Mañana,60,28,41,88205,1,1,975.72
+SIM-02582,Spot radial,Streaming,Río Negro,Noche,52,4,28,18434,1,0,509.2
+SIM-02996,Publicidad digital,Redes sociales,Pangoa,Mañana,86,27,7,67960,0,0,563.83
+SIM-03434,Publicidad digital,TV,Pangoa,Noche,160,1,20,75439,0,0,673.55
+SIM-02527,Spot radial,Streaming,Río Negro,Tarde,38,16,19,57392,0,0,455.88
+SIM-00228,Spot televisivo,TV,Mazamari,Tarde,28,22,40,7118,0,1,650.36
+SIM-01957,Spot radial,Streaming,Pangoa,Tarde,75,1,11,40677,1,1,584.72
+SIM-04940,Cobertura de evento,Redes sociales,Pangoa,Tarde,80,7,34,43680,0,0,717.19
+SIM-05433,Cobertura de evento,TV,Satipo,Tarde,173,7,17,63901,0,1,911.44
+SIM-02602,Spot televisivo,Streaming,Mazamari,Mañana,104,15,7,31362,0,0,557.74
+SIM-01046,Spot radial,Redes sociales,Satipo,Noche,130,29,18,57799,1,1,816.26
+SIM-00017,Mención en vivo,TV,Mazamari,Tarde,143,8,18,77868,1,1,749.38
+SIM-03750,Spot radial,Streaming,Pangoa,Tarde,155,30,29,35020,1,1,857.82
+SIM-02077,Mención en vivo,Streaming,Río Negro,Mañana,61,2,26,50130,1,1,586.66
+SIM-03621,Cobertura de evento,TV,Río Negro,Tarde,32,25,12,22392,1,1,800.65
+SIM-00443,Cobertura de evento,Streaming,Río Negro,Mañana,48,16,21,23541,0,0,609.04
+SIM-04335,Spot radial,TV,Mazamari,Mañana,102,26,28,26226,1,1,737.27
+SIM-00037,Publicidad digital,TV,Río Negro,Noche,168,4,27,48002,1,0,748.83
+SIM-01536,Spot televisivo,Redes sociales,Río Negro,Mañana,53,3,8,31188,1,0,514.85
+SIM-02751,Spot televisivo,Redes sociales,Satipo,Tarde,105,8,19,23288,1,0,642.37
+SIM-04377,Spot televisivo,Redes sociales,Satipo,Tarde,117,20,38,3468,1,0,763.42
+SIM-01543,Publicidad digital,Streaming,Río Negro,Tarde,93,5,24,89596,1,1,755.56
+SIM-01438,Publicidad digital,Redes sociales,Río Negro,Tarde,70,3,21,38715,0,0,463.52
+SIM-01144,Publicidad digital,Redes sociales,Río Negro,Mañana,125,20,10,88229,0,1,692.42
+SIM-04103,Mención en vivo,TV,Satipo,Noche,53,4,13,33902,1,1,553.9
+SIM-02388,Spot televisivo,Redes sociales,Mazamari,Noche,74,25,40,40887,0,1,788.02
+SIM-02222,Mención en vivo,Redes sociales,Río Negro,Mañana,37,23,43,49233,1,1,669.57
+SIM-03438,Cobertura de evento,TV,Pangoa,Mañana,35,23,8,23371,0,0,616.0
+SIM-02350,Spot radial,Redes sociales,Pangoa,Mañana,60,9,11,36131,1,1,565.33
+SIM-05477,Mención en vivo,TV,Satipo,Mañana,100,28,3,62800,1,1,683.28
+SIM-01666,Mención en vivo,Streaming,Río Negro,Noche,168,13,26,48447,0,0,650.11
+SIM-00881,Mención en vivo,TV,Pangoa,Noche,162,15,35,16487,0,1,752.46
+SIM-02236,Cobertura de evento,Multiplataforma,Pangoa,Mañana,55,7,8,89996,1,1,854.18
+SIM-01039,Publicidad digital,TV,Pangoa,Tarde,45,15,33,87905,0,1,665.41
+SIM-03921,Publicidad digital,Multiplataforma,Río Negro,Mañana,141,18,14,73183,0,0,695.23
+SIM-02795,Spot radial,Multiplataforma,Río Negro,Mañana,14,30,40,83652,1,1,764.83
+SIM-00088,Spot radial,Multiplataforma,Mazamari,Noche,135,13,21,7806,0,1,721.29
+SIM-05302,Spot radial,Redes sociales,Satipo,Noche,44,30,14,6846,1,0,547.98
+SIM-03481,Cobertura de evento,Redes sociales,Mazamari,Noche,129,7,33,38365,1,1,939.57
+SIM-00805,Spot televisivo,TV,Pangoa,Noche,99,18,7,33488,0,0,620.46
+SIM-03615,Spot televisivo,Streaming,Mazamari,Mañana,10,19,31,8636,0,0,505.88
+SIM-00812,Publicidad digital,Redes sociales,Satipo,Tarde,43,1,18,18010,0,0,379.45
+SIM-03306,Cobertura de evento,Streaming,Pangoa,Mañana,113,16,16,27720,1,0,796.07
+SIM-03651,Cobertura de evento,Multiplataforma,Mazamari,Mañana,160,11,44,3890,1,1,1046.92
+SIM-01839,Cobertura de evento,Streaming,Mazamari,Mañana,107,24,24,75737,0,0,804.75
+SIM-00144,Spot televisivo,Streaming,Mazamari,Tarde,143,15,7,13277,1,1,777.11
+SIM-03017,Mención en vivo,Multiplataforma,Río Negro,Noche,101,21,41,59760,0,1,794.43
+SIM-03718,Publicidad digital,Multiplataforma,Pangoa,Noche,134,24,11,18990,0,0,709.5
+SIM-01468,Spot televisivo,Multiplataforma,Pangoa,Mañana,87,18,37,74292,0,0,766.59
+SIM-02895,Publicidad digital,Streaming,Satipo,Noche,85,19,32,79011,0,0,661.06
+SIM-04163,Spot televisivo,Redes sociales,Satipo,Mañana,124,21,37,44189,1,0,810.87
+SIM-01448,Spot radial,Streaming,Pangoa,Mañana,64,14,14,6034,0,0,409.71
+SIM-03872,Spot radial,Redes sociales,Río Negro,Mañana,62,17,36,63039,1,1,675.57
+SIM-02450,Spot televisivo,Streaming,Río Negro,Tarde,37,10,28,84970,0,0,575.95
+SIM-00485,Publicidad digital,Redes sociales,Mazamari,Tarde,44,16,38,28098,1,0,587.21
+SIM-04362,Mención en vivo,Multiplataforma,Pangoa,Mañana,38,4,29,63501,0,0,457.4
+SIM-02678,Cobertura de evento,Streaming,Mazamari,Noche,39,12,42,76710,0,0,748.75
+SIM-02654,Publicidad digital,Redes sociales,Río Negro,Tarde,146,9,14,79327,1,0,671.97
+SIM-01721,Mención en vivo,Streaming,Río Negro,Noche,18,27,10,28281,1,0,480.47
+SIM-04647,Publicidad digital,Redes sociales,Río Negro,Mañana,128,15,1,62945,0,0,550.78
+SIM-05525,Cobertura de evento,Streaming,Pangoa,Mañana,37,1,1,26311,0,1,561.88
+SIM-02718,Mención en vivo,Multiplataforma,Mazamari,Mañana,136,24,20,18996,0,1,714.18
+SIM-00030,Cobertura de evento,Redes sociales,Mazamari,Tarde,177,12,27,17478,0,1,896.15
+SIM-04513,Publicidad digital,Redes sociales,Río Negro,Noche,128,28,28,32435,0,0,674.99
+SIM-03145,Mención en vivo,Multiplataforma,Pangoa,Mañana,82,22,12,55340,0,1,654.69
+SIM-04313,Spot televisivo,Redes sociales,Mazamari,Mañana,18,10,26,23824,1,0,548.1
+SIM-03856,Mención en vivo,TV,Pangoa,Noche,144,9,3,80296,0,1,695.25
+SIM-03715,Spot televisivo,Redes sociales,Mazamari,Tarde,50,30,5,71497,1,0,661.95
+SIM-01864,Spot televisivo,Streaming,Pangoa,Noche,16,9,10,22412,0,0,463.43
+SIM-00794,Spot televisivo,Multiplataforma,Mazamari,Noche,95,6,13,20348,0,0,612.43
+SIM-02820,Publicidad digital,Multiplataforma,Pangoa,Noche,99,26,30,41529,0,1,813.34
+SIM-01782,Publicidad digital,Streaming,Pangoa,Noche,68,2,43,65857,0,1,682.25
+SIM-00100,Publicidad digital,Redes sociales,Pangoa,Noche,64,11,13,72218,1,0,600.36
+SIM-04108,Spot televisivo,Redes sociales,Río Negro,Tarde,65,9,16,32583,0,1,593.49
+SIM-00829,Spot televisivo,Streaming,Pangoa,Tarde,167,29,11,63283,1,1,934.9
+SIM-02784,Spot radial,Streaming,Río Negro,Noche,66,5,6,74013,0,0,432.53
+SIM-01813,Publicidad digital,TV,Satipo,Tarde,98,1,29,80314,0,1,686.4
+SIM-02226,Cobertura de evento,Multiplataforma,Satipo,Noche,60,24,5,56881,0,1,858.97
+SIM-02641,Publicidad digital,Streaming,Mazamari,Mañana,42,3,11,68114,1,0,482.38
+SIM-05570,Spot radial,Multiplataforma,Satipo,Mañana,93,10,37,31639,0,1,696.98
+SIM-02138,Spot radial,Redes sociales,Pangoa,Tarde,165,16,18,40984,1,1,781.75
+SIM-03982,Spot televisivo,Redes sociales,Pangoa,Tarde,111,12,8,89096,1,0,705.48
+SIM-04903,Spot televisivo,Multiplataforma,Satipo,Mañana,136,8,8,22483,0,1,737.57
+SIM-05139,Mención en vivo,TV,Satipo,Noche,100,30,1,76107,1,1,743.57
+SIM-01539,Spot televisivo,Streaming,Satipo,Mañana,101,19,37,14388,1,0,722.56
+SIM-00109,Publicidad digital,TV,Mazamari,Noche,60,29,32,33224,0,1,705.72
+SIM-03989,Publicidad digital,Redes sociales,Pangoa,Mañana,92,22,24,46618,0,1,683.11
+SIM-04947,Spot televisivo,TV,Río Negro,Noche,34,27,29,72729,0,1,745.07
+SIM-04707,Cobertura de evento,Multiplataforma,Río Negro,Mañana,44,4,10,85948,0,1,755.57
+SIM-02124,Spot radial,Streaming,Río Negro,Mañana,29,14,27,50428,0,1,510.14
+SIM-02767,Spot televisivo,Streaming,Mazamari,Mañana,119,27,29,7310,0,1,779.17
+SIM-03652,Publicidad digital,TV,Pangoa,Tarde,164,27,31,85850,0,1,876.06
+SIM-04318,Spot radial,Streaming,Mazamari,Mañana,128,25,6,2335,1,0,582.11
+SIM-05289,Spot televisivo,Streaming,Río Negro,Tarde,10,26,18,62054,0,0,541.24
+SIM-05384,Mención en vivo,TV,Mazamari,Mañana,27,27,5,11540,1,0,434.66
+SIM-01520,Mención en vivo,TV,Pangoa,Mañana,124,2,15,68437,0,1,607.85
+SIM-02173,Cobertura de evento,TV,Río Negro,Mañana,103,16,32,44424,0,0,749.58
+SIM-01752,Spot radial,Redes sociales,Pangoa,Tarde,141,30,34,4542,1,1,826.6
+SIM-00787,Publicidad digital,Redes sociales,Pangoa,Noche,76,13,31,8518,0,1,638.36
+SIM-02154,Spot radial,Multiplataforma,Satipo,Tarde,175,3,12,46078,0,0,638.84
+SIM-05266,Spot radial,Redes sociales,Mazamari,Mañana,16,27,14,27005,0,0,390.87
+SIM-03426,Spot radial,Streaming,Río Negro,Mañana,48,18,27,28648,0,1,525.19
+SIM-01477,Mención en vivo,Streaming,Río Negro,Mañana,66,10,15,19353,0,0,379.98
+SIM-04350,Mención en vivo,Multiplataforma,Satipo,Noche,93,26,24,1339,0,1,692.33
+SIM-02908,Mención en vivo,Streaming,Satipo,Noche,70,30,21,14270,0,1,622.87
+SIM-04934,Cobertura de evento,Redes sociales,Pangoa,Tarde,46,13,1,74251,1,1,784.09
+SIM-03606,Spot radial,TV,Mazamari,Tarde,21,27,32,66373,1,1,702.98
+SIM-03859,Mención en vivo,Multiplataforma,Pangoa,Tarde,46,6,23,6791,0,0,456.59
+SIM-02384,Publicidad digital,Streaming,Río Negro,Noche,41,28,33,62496,0,1,681.11
+SIM-02213,Cobertura de evento,Streaming,Satipo,Mañana,121,1,26,57402,1,1,882.12
+SIM-00308,Spot radial,Streaming,Pangoa,Noche,35,23,27,12749,0,0,508.55
+SIM-00742,Spot radial,Redes sociales,Satipo,Noche,138,26,5,6253,1,1,749.1
+SIM-05510,Mención en vivo,TV,Mazamari,Tarde,142,2,24,41934,0,1,640.31
+SIM-01022,Mención en vivo,TV,Mazamari,Noche,86,19,2,69145,1,1,680.47
+SIM-01223,Cobertura de evento,Streaming,Satipo,Tarde,180,29,29,57334,0,1,1031.38
+SIM-01047,Publicidad digital,Streaming,Pangoa,Mañana,107,20,28,8647,0,1,673.48
+SIM-05281,Mención en vivo,TV,Río Negro,Noche,179,28,27,61665,0,1,849.38
+SIM-05368,Mención en vivo,Redes sociales,Satipo,Tarde,170,29,37,85156,0,1,857.29
+SIM-05236,Mención en vivo,Multiplataforma,Río Negro,Mañana,102,2,28,1936,1,0,582.89
+SIM-01934,Mención en vivo,Multiplataforma,Mazamari,Noche,81,7,7,10816,0,0,481.41
+SIM-04764,Spot televisivo,TV,Satipo,Noche,66,19,45,6954,1,0,735.22
+SIM-04167,Spot radial,Redes sociales,Río Negro,Noche,172,5,26,26396,1,0,678.68
+SIM-04372,Publicidad digital,TV,Pangoa,Tarde,126,9,1,79914,1,0,640.21
+SIM-00233,Spot televisivo,TV,Río Negro,Tarde,21,7,2,83604,1,1,630.06
+SIM-02644,Mención en vivo,Multiplataforma,Río Negro,Tarde,173,22,1,56149,0,1,750.64
+SIM-03256,Spot radial,Redes sociales,Satipo,Tarde,117,3,14,39186,1,1,655.18
+SIM-01345,Cobertura de evento,TV,Mazamari,Tarde,26,21,37,46362,0,1,778.77
+SIM-01330,Spot televisivo,Multiplataforma,Mazamari,Tarde,127,4,25,1414,0,0,661.93
+SIM-03940,Cobertura de evento,Streaming,Mazamari,Mañana,166,2,34,35645,1,0,852.48
+SIM-03926,Mención en vivo,Redes sociales,Río Negro,Noche,25,8,15,52256,1,1,551.28
+SIM-02531,Spot radial,Redes sociales,Mazamari,Mañana,14,17,9,48455,1,0,429.08
+SIM-04630,Cobertura de evento,TV,Mazamari,Noche,168,30,43,19418,0,1,1070.98
+SIM-05515,Spot televisivo,TV,Río Negro,Tarde,156,7,9,21462,0,1,710.78
+SIM-02518,Spot televisivo,Redes sociales,Mazamari,Mañana,64,25,33,7609,0,0,607.79
+SIM-00044,Spot radial,TV,Satipo,Noche,161,24,15,79900,1,1,890.58
+SIM-03657,Spot radial,Streaming,Mazamari,Noche,144,28,31,75750,1,1,894.9
+SIM-00746,Spot radial,Multiplataforma,Mazamari,Mañana,102,19,19,83247,0,0,657.03
+SIM-05438,Mención en vivo,Multiplataforma,Pangoa,Mañana,132,14,7,56812,1,1,754.86
+SIM-00438,Spot radial,TV,Río Negro,Tarde,72,27,3,57820,1,1,662.81
+SIM-03033,Mención en vivo,Multiplataforma,Mazamari,Tarde,128,13,27,87428,0,0,681.33
+SIM-03195,Mención en vivo,TV,Satipo,Noche,167,26,22,41943,1,1,872.83
+SIM-04805,Spot televisivo,TV,Pangoa,Noche,26,23,30,21815,0,0,578.65
+SIM-04860,Publicidad digital,Redes sociales,Pangoa,Noche,97,5,29,24584,1,0,618.25
+SIM-01491,Mención en vivo,TV,Río Negro,Noche,178,4,21,68289,0,0,641.97
+SIM-04991,Spot radial,Multiplataforma,Río Negro,Noche,20,6,10,67195,1,0,542.08
+SIM-05004,Cobertura de evento,Redes sociales,Río Negro,Noche,72,26,11,53951,1,1,878.99
+SIM-02145,Cobertura de evento,Redes sociales,Mazamari,Mañana,42,4,9,70097,1,1,720.09
+SIM-00149,Spot radial,Streaming,Río Negro,Mañana,38,23,37,66281,0,1,614.98
+SIM-00810,Mención en vivo,TV,Pangoa,Tarde,10,23,13,85449,1,0,511.57
+SIM-00586,Publicidad digital,Multiplataforma,Río Negro,Tarde,174,26,18,40431,0,1,864.81
+SIM-05407,Cobertura de evento,Redes sociales,Mazamari,Mañana,29,14,9,15561,1,0,603.78
+SIM-00437,Spot televisivo,TV,Pangoa,Tarde,63,8,36,23504,0,0,575.81
+SIM-01057,Cobertura de evento,Redes sociales,Pangoa,Tarde,12,28,23,34433,1,0,729.05
+SIM-04231,Spot televisivo,Streaming,Satipo,Noche,174,13,29,56735,1,1,955.31
+SIM-04458,Spot televisivo,Streaming,Pangoa,Mañana,68,10,3,65051,0,1,612.0
+SIM-00012,Cobertura de evento,Redes sociales,Río Negro,Mañana,122,12,40,42870,1,1,934.81
+SIM-00093,Mención en vivo,TV,Río Negro,Noche,31,19,22,77510,0,0,491.13
+SIM-04058,Mención en vivo,Streaming,Satipo,Mañana,49,10,14,73536,1,0,488.5
+SIM-00183,Spot televisivo,Redes sociales,Mazamari,Tarde,154,27,31,37766,1,0,854.38
+SIM-01025,Mención en vivo,Streaming,Satipo,Noche,27,14,24,45513,1,1,589.36
+SIM-00642,Publicidad digital,TV,Río Negro,Noche,121,29,23,86603,1,1,885.28
+SIM-04322,Mención en vivo,Multiplataforma,Mazamari,Noche,178,9,2,8983,0,0,604.2
+SIM-00221,Spot radial,Streaming,Mazamari,Tarde,127,28,7,68246,0,0,604.1
+SIM-01094,Mención en vivo,Redes sociales,Mazamari,Noche,135,24,40,25874,1,0,731.46
+SIM-01175,Publicidad digital,Streaming,Río Negro,Mañana,168,9,34,76890,1,0,771.36
+SIM-03243,Spot televisivo,TV,Pangoa,Tarde,52,7,21,27410,1,1,693.06
+SIM-00889,Spot televisivo,Multiplataforma,Mazamari,Mañana,122,26,24,86861,1,0,883.84
+SIM-04825,Cobertura de evento,Redes sociales,Mazamari,Noche,32,17,5,88255,1,0,720.64
+SIM-01432,Spot televisivo,Streaming,Pangoa,Noche,33,11,8,30249,1,0,569.38
+SIM-01087,Spot televisivo,Multiplataforma,Mazamari,Tarde,36,3,31,77442,1,0,690.23
+SIM-01488,Publicidad digital,TV,Satipo,Tarde,179,2,8,33858,0,1,693.97
+SIM-03864,Spot televisivo,Streaming,Pangoa,Mañana,20,22,14,20126,1,1,633.81
+SIM-00848,Spot televisivo,Multiplataforma,Mazamari,Mañana,165,22,34,13423,1,0,880.74
+SIM-01566,Publicidad digital,Multiplataforma,Satipo,Tarde,124,8,27,6074,1,0,702.39
+SIM-05337,Publicidad digital,Streaming,Pangoa,Mañana,58,29,10,80036,1,1,733.12
+SIM-00653,Spot radial,TV,Pangoa,Tarde,14,5,4,4558,1,0,368.72
+SIM-00429,Spot televisivo,Multiplataforma,Río Negro,Mañana,107,12,41,7087,0,1,799.47
+SIM-01620,Spot radial,TV,Río Negro,Noche,43,1,42,89872,1,1,677.42
+SIM-01193,Cobertura de evento,Redes sociales,Satipo,Tarde,45,22,27,53292,1,0,770.91
+SIM-05401,Mención en vivo,Multiplataforma,Río Negro,Mañana,14,9,26,73097,1,1,617.8
+SIM-02748,Mención en vivo,Redes sociales,Río Negro,Tarde,93,28,4,76692,1,0,600.56
+SIM-03413,Publicidad digital,Multiplataforma,Mazamari,Tarde,165,29,17,23182,0,0,767.5
+SIM-04907,Spot televisivo,TV,Río Negro,Mañana,83,17,17,87630,0,1,719.71
+SIM-01411,Spot televisivo,Redes sociales,Río Negro,Noche,165,9,26,25213,0,0,717.2
+SIM-05287,Spot televisivo,TV,Pangoa,Mañana,77,23,12,37062,0,0,598.99
+SIM-00259,Publicidad digital,Redes sociales,Satipo,Mañana,53,26,31,65538,0,1,667.87
+SIM-00838,Publicidad digital,TV,Pangoa,Tarde,165,17,26,2024,0,1,754.14
+SIM-00063,Publicidad digital,TV,Satipo,Noche,48,20,27,55279,0,1,673.49
+SIM-05323,Cobertura de evento,Streaming,Satipo,Noche,90,30,23,52883,1,1,975.69
+SIM-03153,Publicidad digital,TV,Pangoa,Mañana,138,6,22,66262,0,1,722.67
+SIM-03483,Mención en vivo,Redes sociales,Mazamari,Tarde,161,24,35,23154,1,0,742.52
+SIM-00969,Mención en vivo,Redes sociales,Satipo,Tarde,54,10,44,75079,1,0,580.35
+SIM-00856,Mención en vivo,TV,Pangoa,Tarde,111,19,28,46829,1,1,746.29
+SIM-05221,Spot radial,Streaming,Satipo,Tarde,75,9,1,70632,1,0,503.92
+SIM-02699,Publicidad digital,TV,Pangoa,Noche,141,25,12,67836,1,0,776.84
+SIM-01129,Publicidad digital,Redes sociales,Pangoa,Noche,157,27,31,4864,0,0,710.12
+SIM-02517,Spot radial,Redes sociales,Satipo,Mañana,51,13,31,7810,1,0,501.76
+SIM-02321,Spot televisivo,Redes sociales,Río Negro,Noche,123,14,43,47957,0,0,749.94
+SIM-05442,Spot televisivo,TV,Mazamari,Noche,92,8,14,13776,0,0,575.61
+SIM-02916,Publicidad digital,Redes sociales,Pangoa,Noche,14,1,22,28292,0,0,396.35
+SIM-01212,Spot televisivo,Streaming,Pangoa,Tarde,44,22,13,67021,0,0,580.25
+SIM-00721,Spot radial,TV,Satipo,Mañana,38,3,5,61102,0,0,360.34
+SIM-00693,Mención en vivo,Multiplataforma,Satipo,Tarde,77,27,5,3495,0,0,506.9
+SIM-04498,Cobertura de evento,Redes sociales,Río Negro,Tarde,67,5,33,51968,1,0,743.57
+SIM-05257,Spot radial,Redes sociales,Río Negro,Mañana,146,23,28,52600,1,0,721.8
+SIM-02571,Publicidad digital,Multiplataforma,Mazamari,Mañana,102,3,10,62508,0,0,574.08
+SIM-00287,Publicidad digital,Redes sociales,Mazamari,Tarde,134,1,20,38293,1,0,617.59
+SIM-04306,Mención en vivo,TV,Pangoa,Mañana,41,9,35,82222,1,0,576.26
+SIM-05395,Publicidad digital,Redes sociales,Mazamari,Tarde,129,30,3,86567,0,0,661.12
+SIM-01224,Mención en vivo,TV,Satipo,Tarde,113,8,30,6685,1,0,574.71
+SIM-05309,Publicidad digital,TV,Río Negro,Noche,145,9,43,1408,0,1,751.09
+SIM-01905,Spot televisivo,TV,Pangoa,Mañana,147,22,39,47630,1,1,968.11
+SIM-02892,Cobertura de evento,Multiplataforma,Mazamari,Tarde,129,5,22,53816,1,0,879.89
+SIM-01773,Cobertura de evento,Redes sociales,Satipo,Noche,40,6,6,81901,1,0,679.88
+SIM-00561,Spot radial,Redes sociales,Mazamari,Mañana,164,6,10,82207,0,1,668.44
+SIM-03305,Spot radial,Multiplataforma,Mazamari,Tarde,59,10,14,30972,1,0,543.74
+SIM-01600,Cobertura de evento,Streaming,Mazamari,Mañana,115,24,18,44687,1,0,838.92
+SIM-01606,Mención en vivo,Redes sociales,Mazamari,Tarde,136,25,43,51670,1,0,770.52
+SIM-01907,Publicidad digital,TV,Pangoa,Mañana,69,9,26,75922,0,1,637.23
+SIM-05508,Mención en vivo,Multiplataforma,Mazamari,Mañana,129,16,25,30777,1,1,795.99
+SIM-03789,Cobertura de evento,Multiplataforma,Pangoa,Mañana,76,28,36,62357,1,0,934.55
+SIM-03648,Publicidad digital,Streaming,Río Negro,Mañana,45,3,3,53529,0,0,378.13
+SIM-00926,Cobertura de evento,Multiplataforma,Río Negro,Mañana,28,19,13,54740,0,1,774.25
+SIM-01483,Publicidad digital,TV,Satipo,Mañana,107,15,14,71117,0,0,582.23
+SIM-04631,Mención en vivo,Streaming,Pangoa,Mañana,74,28,11,89963,0,1,626.65
+SIM-02620,Publicidad digital,Redes sociales,Río Negro,Mañana,13,1,1,28701,0,0,284.21
+SIM-00210,Cobertura de evento,Redes sociales,Pangoa,Mañana,179,17,24,32707,1,1,1012.18
+SIM-00047,Mención en vivo,Multiplataforma,Mazamari,Tarde,87,1,23,10999,0,1,567.81
+SIM-03026,Cobertura de evento,TV,Río Negro,Mañana,95,14,43,55810,1,0,861.75
+SIM-01983,Spot radial,Redes sociales,Satipo,Mañana,113,20,7,72012,1,0,626.73
+SIM-00911,Spot radial,Redes sociales,Mazamari,Noche,28,9,12,25498,0,0,377.59
+SIM-03001,Spot televisivo,Multiplataforma,Pangoa,Noche,55,22,34,50934,0,1,814.75
+SIM-05282,Publicidad digital,Streaming,Satipo,Noche,76,25,25,35556,0,1,688.56
+SIM-02210,Spot radial,Multiplataforma,Río Negro,Mañana,14,18,43,34347,1,1,682.44
+SIM-04454,Cobertura de evento,Redes sociales,Pangoa,Noche,168,6,20,64101,0,0,824.37
+SIM-04831,Mención en vivo,Streaming,Satipo,Tarde,136,12,13,85067,0,1,672.83
+SIM-05277,Spot televisivo,Redes sociales,Pangoa,Noche,164,21,22,51708,0,0,757.63
+SIM-01892,Spot televisivo,TV,Río Negro,Mañana,35,6,20,1551,1,0,521.04
+SIM-02845,Cobertura de evento,Multiplataforma,Satipo,Mañana,61,3,44,13625,0,0,724.17
+SIM-01615,Spot radial,Redes sociales,Pangoa,Tarde,119,2,5,39470,0,0,470.24
+SIM-02086,Mención en vivo,Streaming,Satipo,Tarde,163,27,35,51867,1,0,774.81
+SIM-03961,Spot televisivo,Redes sociales,Satipo,Tarde,128,24,5,67826,1,1,848.19
+SIM-02464,Cobertura de evento,TV,Mazamari,Noche,34,22,43,64826,1,0,846.98
+SIM-04855,Spot radial,Streaming,Pangoa,Tarde,35,15,40,23160,1,1,632.12
+SIM-04366,Cobertura de evento,Redes sociales,Río Negro,Tarde,93,6,40,70830,0,0,758.21
+SIM-04760,Spot radial,Redes sociales,Río Negro,Noche,54,27,2,81484,1,1,676.29
+SIM-04591,Publicidad digital,Streaming,Mazamari,Noche,123,18,45,28557,0,0,701.76
+SIM-00354,Spot televisivo,Redes sociales,Pangoa,Tarde,36,6,8,54285,1,1,631.97
+SIM-02615,Spot radial,Streaming,Pangoa,Tarde,141,13,40,37323,1,0,704.0
+SIM-01514,Cobertura de evento,Multiplataforma,Río Negro,Noche,88,17,44,36106,0,0,871.79
+SIM-04689,Publicidad digital,Streaming,Río Negro,Noche,132,12,30,28708,1,0,695.82
+SIM-04437,Publicidad digital,TV,Satipo,Noche,151,21,7,17240,0,0,644.32
+SIM-02240,Cobertura de evento,TV,Río Negro,Tarde,105,15,4,34347,0,1,783.13
+SIM-04316,Publicidad digital,Redes sociales,Satipo,Mañana,42,24,30,82608,0,0,571.41
+SIM-01652,Cobertura de evento,Multiplataforma,Mazamari,Mañana,155,25,36,41777,1,0,1016.6
+SIM-02988,Spot radial,Redes sociales,Pangoa,Noche,29,3,15,60945,0,0,410.15
+SIM-04756,Spot televisivo,TV,Mazamari,Tarde,180,14,6,2531,1,1,818.6
+SIM-04691,Publicidad digital,Redes sociales,Pangoa,Mañana,95,21,18,42092,1,1,721.05
+SIM-00414,Spot radial,Redes sociales,Río Negro,Tarde,31,2,22,29433,0,0,351.16
+SIM-01420,Spot radial,Redes sociales,Río Negro,Mañana,163,19,37,67794,0,0,706.65
+SIM-01862,Spot televisivo,Multiplataforma,Río Negro,Tarde,65,28,40,84817,1,0,856.44
+SIM-00944,Cobertura de evento,TV,Río Negro,Mañana,41,15,27,70627,1,0,752.07
+SIM-02592,Spot televisivo,TV,Río Negro,Noche,49,13,23,57713,1,0,666.81
+SIM-03662,Publicidad digital,TV,Satipo,Mañana,66,28,42,12988,1,1,761.48
+SIM-01392,Spot radial,Multiplataforma,Pangoa,Tarde,130,30,32,18439,1,1,890.28
+SIM-00925,Publicidad digital,TV,Mazamari,Noche,107,14,15,66505,1,1,779.77
+SIM-01128,Spot radial,Streaming,Mazamari,Noche,52,20,10,50478,1,0,551.01
+SIM-01379,Cobertura de evento,TV,Satipo,Tarde,121,12,44,3333,1,0,878.04
+SIM-05371,Spot radial,Redes sociales,Río Negro,Tarde,48,5,2,41287,1,1,505.04
+SIM-01879,Publicidad digital,Multiplataforma,Río Negro,Noche,158,24,3,15125,1,1,894.43
+SIM-04890,Mención en vivo,Streaming,Pangoa,Mañana,22,9,43,5033,1,0,479.89
+SIM-03660,Publicidad digital,Multiplataforma,Río Negro,Tarde,91,15,8,71123,1,0,680.48
+SIM-03114,Cobertura de evento,Streaming,Río Negro,Mañana,67,21,5,85869,0,1,766.26
+SIM-00252,Spot radial,Multiplataforma,Pangoa,Mañana,29,9,22,83283,0,0,524.48
+SIM-03282,Spot televisivo,TV,Pangoa,Mañana,36,14,36,88609,0,1,710.34
+SIM-00654,Mención en vivo,Multiplataforma,Mazamari,Mañana,12,12,11,71351,0,0,439.06
+SIM-00350,Cobertura de evento,Redes sociales,Mazamari,Noche,149,26,4,57751,0,0,823.95
+SIM-00994,Spot radial,TV,Satipo,Noche,133,13,13,28460,0,0,593.7
+SIM-02422,Mención en vivo,TV,Pangoa,Noche,139,2,2,75309,0,1,627.84
+SIM-02224,Spot radial,Multiplataforma,Río Negro,Noche,132,6,13,85901,1,1,814.46
+SIM-01487,Mención en vivo,Multiplataforma,Pangoa,Noche,118,17,40,78109,1,1,904.15
+SIM-00457,Spot televisivo,Streaming,Pangoa,Mañana,153,24,29,51828,1,0,840.06
+SIM-02803,Spot televisivo,Multiplataforma,Pangoa,Noche,145,12,17,62522,0,0,786.17
+SIM-04626,Spot radial,Redes sociales,Mazamari,Noche,48,21,24,74200,1,0,612.36
+SIM-00090,Spot televisivo,TV,Río Negro,Noche,37,20,41,11232,0,1,681.75
+SIM-00798,Spot televisivo,Streaming,Satipo,Mañana,89,9,16,29763,0,1,648.41
+SIM-03827,Mención en vivo,Streaming,Río Negro,Mañana,83,22,42,36258,0,0,577.84
+SIM-04192,Publicidad digital,Multiplataforma,Satipo,Tarde,55,28,4,55735,1,0,648.36
+SIM-03119,Mención en vivo,Streaming,Mazamari,Mañana,19,13,36,74168,1,1,610.01
+SIM-05345,Mención en vivo,Redes sociales,Río Negro,Mañana,108,14,7,78526,0,0,508.19
+SIM-00026,Publicidad digital,Streaming,Mazamari,Tarde,28,9,17,31642,0,0,428.91
+SIM-01268,Mención en vivo,TV,Satipo,Noche,158,18,12,34195,0,1,700.05
+SIM-00549,Cobertura de evento,Multiplataforma,Mazamari,Tarde,105,20,7,18053,0,1,846.86
+SIM-03764,Publicidad digital,TV,Pangoa,Tarde,82,26,2,82548,1,1,750.99
+SIM-02465,Spot radial,Multiplataforma,Río Negro,Tarde,40,16,21,28727,1,1,653.26
+SIM-00181,Publicidad digital,Streaming,Satipo,Noche,100,14,24,18491,1,0,648.06
+SIM-04280,Spot televisivo,TV,Mazamari,Tarde,148,30,8,4264,0,1,782.57
+SIM-00263,Mención en vivo,Redes sociales,Pangoa,Mañana,104,27,42,14755,0,1,684.22
+SIM-02366,Spot radial,Multiplataforma,Pangoa,Tarde,61,25,40,79272,0,0,689.99
+SIM-04489,Mención en vivo,Multiplataforma,Pangoa,Tarde,33,24,35,23816,0,1,661.1
+SIM-02526,Spot televisivo,Redes sociales,Pangoa,Tarde,162,25,33,20791,1,1,933.63
+SIM-02303,Spot radial,Redes sociales,Satipo,Tarde,161,29,8,42742,1,1,804.68
+SIM-05472,Spot televisivo,Multiplataforma,Mazamari,Tarde,81,19,16,6094,0,0,627.89
+SIM-03880,Mención en vivo,Redes sociales,Satipo,Mañana,101,16,45,65872,1,0,671.64
+SIM-04759,Spot radial,TV,Pangoa,Noche,179,7,11,2675,0,1,701.73
+SIM-02348,Cobertura de evento,Streaming,Pangoa,Tarde,137,16,5,53323,1,1,923.97
+SIM-04331,Mención en vivo,Streaming,Satipo,Noche,72,10,20,78718,1,1,676.98
+SIM-03795,Mención en vivo,TV,Río Negro,Tarde,37,4,12,36821,1,1,511.22
+SIM-05078,Cobertura de evento,Streaming,Satipo,Noche,146,27,42,83669,1,0,1043.18
+SIM-05017,Spot radial,Multiplataforma,Río Negro,Tarde,34,18,38,41530,0,0,546.9
+SIM-04819,Publicidad digital,Streaming,Río Negro,Tarde,125,16,40,85838,0,1,785.92
+SIM-03127,Publicidad digital,Redes sociales,Mazamari,Mañana,174,1,27,27670,1,0,668.61
+SIM-03877,Mención en vivo,Multiplataforma,Mazamari,Tarde,75,9,26,58199,0,1,650.65
+SIM-04977,Spot radial,TV,Pangoa,Noche,41,26,8,39382,1,0,549.9
+SIM-01351,Publicidad digital,Streaming,Pangoa,Noche,121,16,34,87760,0,0,703.16
+SIM-03874,Cobertura de evento,Redes sociales,Mazamari,Mañana,13,4,32,10586,0,0,541.66
+SIM-05203,Cobertura de evento,TV,Satipo,Tarde,117,13,39,87613,1,0,936.58
+SIM-04930,Mención en vivo,Multiplataforma,Satipo,Mañana,136,17,45,70327,1,0,824.53
+SIM-05180,Mención en vivo,Multiplataforma,Pangoa,Noche,65,25,22,25242,1,1,753.56
+SIM-04128,Spot radial,Redes sociales,Mazamari,Tarde,79,22,26,5117,0,0,491.43
+SIM-04731,Cobertura de evento,TV,Mazamari,Mañana,104,4,39,56053,0,1,848.15
+SIM-02815,Spot radial,Redes sociales,Río Negro,Mañana,150,9,6,10959,1,0,555.92
+SIM-03101,Mención en vivo,Streaming,Satipo,Tarde,58,3,36,42264,1,1,628.49
+SIM-04270,Mención en vivo,Streaming,Río Negro,Tarde,143,22,32,16129,1,1,742.75
+SIM-00069,Cobertura de evento,Multiplataforma,Satipo,Noche,118,1,9,47337,1,1,922.6
+SIM-02486,Spot radial,Streaming,Mazamari,Noche,155,18,33,38807,0,0,697.89
+SIM-02692,Mención en vivo,Multiplataforma,Río Negro,Mañana,32,15,37,70052,1,0,635.46
+SIM-00676,Publicidad digital,Streaming,Río Negro,Tarde,70,9,3,13520,1,1,573.28
+SIM-04535,Spot radial,Streaming,Río Negro,Tarde,32,18,10,55232,0,0,409.93
+SIM-05497,Spot radial,Streaming,Pangoa,Mañana,133,28,6,46807,1,1,761.72
+SIM-03830,Spot radial,Streaming,Mazamari,Mañana,62,6,36,30744,1,1,611.62
+SIM-02929,Publicidad digital,Multiplataforma,Satipo,Noche,61,29,21,32738,1,1,810.39
+SIM-00203,Mención en vivo,Multiplataforma,Río Negro,Tarde,97,22,13,74241,0,1,699.72
+SIM-03554,Spot radial,Multiplataforma,Mazamari,Noche,177,1,7,82414,0,0,690.47
+SIM-01578,Mención en vivo,Multiplataforma,Pangoa,Tarde,124,13,33,32918,1,0,735.74
+SIM-00339,Spot radial,Streaming,Mazamari,Mañana,89,16,38,12043,0,0,538.33
+SIM-03570,Mención en vivo,Multiplataforma,Pangoa,Tarde,64,28,1,57794,0,0,555.37
+SIM-03887,Publicidad digital,TV,Satipo,Mañana,144,11,17,38264,0,0,606.36
+SIM-04449,Spot televisivo,Multiplataforma,Mazamari,Mañana,126,26,10,63673,0,1,825.54
+SIM-04392,Spot radial,Streaming,Río Negro,Noche,112,16,13,71025,0,0,573.82
+SIM-00479,Spot radial,Multiplataforma,Satipo,Noche,14,2,5,23288,1,0,455.98
+SIM-00387,Publicidad digital,Streaming,Pangoa,Noche,168,20,22,85158,0,1,856.52
+SIM-05473,Spot radial,Redes sociales,Río Negro,Mañana,89,27,7,82007,0,0,542.59
+SIM-04252,Spot radial,Streaming,Satipo,Mañana,107,10,4,25980,0,0,440.36
+SIM-03038,Cobertura de evento,Redes sociales,Mazamari,Mañana,66,3,17,55543,1,1,784.42
+SIM-02707,Spot televisivo,Streaming,Pangoa,Mañana,71,28,26,1334,0,0,589.37
+SIM-01421,Spot televisivo,TV,Río Negro,Noche,21,15,17,41601,1,0,598.11
+SIM-03658,Mención en vivo,Streaming,Mazamari,Noche,81,24,34,85694,0,0,632.04
+SIM-02225,Spot televisivo,TV,Mazamari,Tarde,167,3,25,85508,0,0,747.54
+SIM-03048,Publicidad digital,Redes sociales,Mazamari,Noche,161,20,2,28592,0,0,617.57
+SIM-03721,Spot televisivo,Streaming,Río Negro,Noche,102,11,35,63172,1,1,866.65
+SIM-02629,Cobertura de evento,Multiplataforma,Mazamari,Noche,22,21,36,86014,1,1,954.62
+SIM-03712,Mención en vivo,Streaming,Mazamari,Tarde,49,22,36,38128,0,1,608.9
+SIM-05422,Cobertura de evento,Streaming,Mazamari,Mañana,112,4,32,74682,0,1,840.41
+SIM-04238,Spot radial,Streaming,Pangoa,Noche,171,30,38,73516,0,1,913.29
+SIM-00677,Cobertura de evento,Streaming,Mazamari,Mañana,13,21,17,82240,1,1,787.84
+SIM-02941,Mención en vivo,Redes sociales,Pangoa,Noche,111,27,28,40715,1,0,713.76
+SIM-03331,Cobertura de evento,Multiplataforma,Satipo,Mañana,98,4,14,72790,1,0,819.71
+SIM-05474,Spot radial,Streaming,Mazamari,Noche,148,24,9,88248,1,0,727.15
+SIM-00061,Cobertura de evento,Redes sociales,Río Negro,Noche,123,20,31,84336,1,0,933.36
+SIM-02057,Mención en vivo,TV,Río Negro,Noche,83,23,15,30457,1,1,681.89
+SIM-01871,Mención en vivo,Redes sociales,Pangoa,Noche,167,29,2,76969,0,0,688.88
+SIM-01115,Mención en vivo,TV,Pangoa,Tarde,144,30,10,64855,1,0,717.81
+SIM-05585,Spot televisivo,Multiplataforma,Pangoa,Mañana,116,18,34,10105,1,0,794.85
+SIM-02522,Spot televisivo,Redes sociales,Pangoa,Mañana,142,17,5,43644,1,0,706.46
+SIM-02819,Mención en vivo,Streaming,Pangoa,Tarde,68,23,45,30497,1,0,642.54
+SIM-05077,Publicidad digital,Streaming,Río Negro,Tarde,144,13,31,61098,1,0,731.63
+SIM-05065,Publicidad digital,TV,Río Negro,Mañana,173,3,8,17967,1,0,618.39
+SIM-01788,Mención en vivo,Redes sociales,Pangoa,Tarde,104,5,21,59575,0,0,508.05
+SIM-04109,Cobertura de evento,Streaming,Mazamari,Noche,148,21,27,87494,1,1,1095.24
+SIM-04730,Cobertura de evento,Redes sociales,Mazamari,Tarde,99,5,23,86165,0,1,801.39
+SIM-03528,Spot radial,Streaming,Pangoa,Noche,87,21,21,37329,1,0,632.41
+SIM-01632,Spot televisivo,Streaming,Mazamari,Mañana,117,24,12,43888,1,1,812.86
+SIM-00733,Cobertura de evento,TV,Satipo,Noche,167,10,16,47167,1,1,1005.48
+SIM-03250,Spot televisivo,Redes sociales,Mazamari,Tarde,173,28,17,31990,0,1,852.68
+SIM-04254,Spot radial,Streaming,Satipo,Noche,149,2,16,64298,1,1,749.35
+SIM-04077,Spot radial,Multiplataforma,Satipo,Tarde,95,13,31,71671,0,1,728.4
+SIM-00527,Publicidad digital,Redes sociales,Pangoa,Tarde,60,9,39,31438,0,0,526.16
+SIM-03288,Mención en vivo,Redes sociales,Mazamari,Mañana,101,18,1,22202,1,0,505.82
+SIM-02263,Cobertura de evento,Redes sociales,Pangoa,Tarde,63,19,30,45924,0,1,805.92
+SIM-05375,Spot televisivo,Multiplataforma,Río Negro,Tarde,62,11,35,34853,1,0,710.25
+SIM-02714,Cobertura de evento,Multiplataforma,Satipo,Tarde,178,6,36,43780,0,1,1019.32
+SIM-01662,Spot televisivo,Multiplataforma,Mazamari,Mañana,80,28,40,35304,1,1,919.97
+SIM-00803,Publicidad digital,Streaming,Río Negro,Tarde,35,23,37,11288,0,0,511.88
+SIM-02103,Spot televisivo,Streaming,Río Negro,Noche,106,13,33,63789,1,1,857.99
+SIM-01471,Spot radial,Multiplataforma,Río Negro,Tarde,59,9,35,28734,1,1,702.42
+SIM-04213,Publicidad digital,Multiplataforma,Satipo,Tarde,80,1,39,59302,0,1,713.67
+SIM-04358,Mención en vivo,Redes sociales,Río Negro,Noche,107,28,9,72412,1,1,746.99
+SIM-04371,Mención en vivo,Multiplataforma,Mazamari,Tarde,82,16,29,16976,0,0,560.85
+SIM-03464,Spot televisivo,Streaming,Mazamari,Tarde,87,20,10,48908,0,0,585.49
+SIM-00219,Spot radial,Streaming,Río Negro,Mañana,122,17,25,79778,0,0,609.13
+SIM-01209,Mención en vivo,Multiplataforma,Mazamari,Mañana,101,7,3,48927,0,0,487.92
+SIM-00582,Publicidad digital,Streaming,Río Negro,Tarde,157,12,10,75921,0,0,635.58
+SIM-05083,Spot televisivo,TV,Pangoa,Tarde,66,20,33,89239,0,1,782.85
+SIM-00043,Spot radial,TV,Mazamari,Noche,94,11,20,85534,0,1,670.09
+SIM-03463,Publicidad digital,Streaming,Satipo,Noche,114,21,32,86465,0,0,710.07
+SIM-05561,Spot televisivo,Streaming,Río Negro,Mañana,113,19,44,53391,0,0,710.01
+SIM-01231,Cobertura de evento,Multiplataforma,Satipo,Mañana,21,19,30,30856,0,0,703.06
+SIM-05184,Mención en vivo,TV,Río Negro,Noche,73,19,9,86105,1,0,606.84
+SIM-01071,Spot televisivo,Multiplataforma,Mazamari,Noche,77,20,5,50852,1,0,721.51
+SIM-00718,Mención en vivo,Streaming,Río Negro,Mañana,163,8,22,62816,1,1,735.49
+SIM-04047,Spot radial,Redes sociales,Mazamari,Mañana,146,9,43,68784,1,0,734.15
+SIM-00670,Spot televisivo,Streaming,Satipo,Noche,46,6,34,76457,1,1,761.05
+SIM-03433,Mención en vivo,Redes sociales,Satipo,Noche,64,24,24,68750,0,1,666.04
+SIM-04923,Cobertura de evento,Multiplataforma,Satipo,Tarde,152,6,25,25116,0,0,822.35
+SIM-01544,Publicidad digital,Redes sociales,Río Negro,Mañana,23,29,37,15680,0,0,496.44
+SIM-00897,Spot televisivo,Redes sociales,Pangoa,Mañana,26,7,24,19596,0,0,471.16
+SIM-00095,Publicidad digital,Multiplataforma,Satipo,Tarde,154,24,14,10956,1,1,862.2
+SIM-03855,Publicidad digital,Multiplataforma,Pangoa,Noche,129,5,45,72394,0,1,862.48
+SIM-00842,Mención en vivo,Multiplataforma,Satipo,Noche,63,22,29,66602,1,0,684.41
+SIM-05027,Cobertura de evento,Redes sociales,Río Negro,Noche,84,13,7,85181,1,0,781.39
+SIM-02378,Mención en vivo,Streaming,Mazamari,Tarde,167,9,10,83341,0,0,598.13
+SIM-04651,Spot televisivo,Streaming,Satipo,Mañana,60,8,14,33309,1,1,654.77
+SIM-02302,Spot televisivo,TV,Mazamari,Mañana,54,23,3,12081,0,0,507.72
+SIM-03567,Cobertura de evento,Multiplataforma,Pangoa,Mañana,70,9,43,29440,1,1,949.8
+SIM-02119,Mención en vivo,Redes sociales,Pangoa,Mañana,169,19,4,26320,1,1,715.19
+SIM-02775,Spot radial,Multiplataforma,Río Negro,Noche,83,5,15,64694,0,0,558.0
+SIM-00322,Cobertura de evento,Streaming,Río Negro,Tarde,24,23,42,75951,0,0,738.56
+SIM-05170,Spot radial,Redes sociales,Mazamari,Tarde,170,23,20,71274,0,0,696.66
+SIM-04745,Cobertura de evento,Redes sociales,Pangoa,Mañana,164,27,15,62983,1,0,934.33
+SIM-04342,Cobertura de evento,Redes sociales,Río Negro,Tarde,50,11,26,55088,0,1,737.57
+SIM-00334,Spot televisivo,Streaming,Pangoa,Tarde,10,11,31,36694,0,0,503.86
+SIM-05215,Spot radial,Redes sociales,Pangoa,Tarde,14,11,2,26949,0,1,403.45
+SIM-02640,Publicidad digital,Multiplataforma,Río Negro,Tarde,100,30,16,87173,0,0,712.2
+SIM-00833,Spot radial,TV,Satipo,Mañana,162,29,33,58734,1,1,900.86
+SIM-03102,Spot televisivo,Multiplataforma,Mazamari,Mañana,24,7,15,4194,0,0,503.35
+SIM-01730,Cobertura de evento,TV,Pangoa,Noche,124,15,16,53788,1,0,867.8
+SIM-03922,Mención en vivo,Streaming,Mazamari,Mañana,172,12,3,26936,1,1,688.87
+SIM-01292,Publicidad digital,Streaming,Río Negro,Noche,150,22,14,26533,0,1,726.31
+SIM-01729,Spot televisivo,Redes sociales,Mazamari,Mañana,35,25,13,20184,1,0,573.38
+SIM-00731,Spot radial,Multiplataforma,Satipo,Noche,64,28,45,27423,0,1,755.29
+SIM-00291,Publicidad digital,TV,Pangoa,Tarde,165,14,27,38187,0,0,694.82
+SIM-00184,Publicidad digital,Streaming,Mazamari,Noche,22,5,34,1879,0,0,426.28
+SIM-03910,Cobertura de evento,Streaming,Mazamari,Mañana,47,22,12,26029,1,0,682.01
+SIM-02146,Spot televisivo,Multiplataforma,Pangoa,Tarde,71,3,25,11157,1,0,658.24
+SIM-01859,Mención en vivo,Streaming,Satipo,Tarde,56,20,14,51545,0,0,456.85
+SIM-00533,Cobertura de evento,Multiplataforma,Pangoa,Noche,130,26,44,26601,1,0,1038.73
+SIM-03123,Publicidad digital,Multiplataforma,Satipo,Noche,112,11,25,81790,1,0,792.16
+SIM-05152,Mención en vivo,Streaming,Satipo,Tarde,15,28,7,65656,1,0,493.42
+SIM-05583,Publicidad digital,Redes sociales,Río Negro,Noche,89,27,12,6618,1,1,682.7
+SIM-03411,Cobertura de evento,Streaming,Pangoa,Mañana,179,2,22,30298,1,0,843.33
+SIM-00657,Publicidad digital,Multiplataforma,Río Negro,Mañana,72,28,30,6509,0,0,624.36
+SIM-03260,Spot televisivo,Multiplataforma,Pangoa,Noche,82,9,37,31974,1,0,788.83
+SIM-04294,Cobertura de evento,Multiplataforma,Mazamari,Mañana,124,22,21,69324,1,1,1036.74
+SIM-04041,Cobertura de evento,Multiplataforma,Pangoa,Mañana,26,13,43,67340,0,0,781.17
+SIM-04118,Spot televisivo,Redes sociales,Río Negro,Noche,52,15,44,79675,0,0,667.1
